@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7f9fc"/>
+  <text x="90" y="90" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#17233c">Four offices of governed agency</text>
+  <text x="90" y="135" font-family="Arial, sans-serif" font-size="22" fill="#53617a">Work becomes consequential only through evidence, scoped authority, and accountable government.</text>
+  <defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#385985"/></marker></defs>
+  <rect x="90" y="265" rx="26" width="280" height="210" fill="#dcecff" stroke="#2d65a3" stroke-width="4"/>
+  <text x="230" y="330" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#153f70">AGENTS ACT</text>
+  <text x="230" y="382" text-anchor="middle" font-family="Arial" font-size="22" fill="#2e4f72">propose • build • repair</text>
+  <text x="230" y="418" text-anchor="middle" font-family="Arial" font-size="22" fill="#2e4f72">request validation</text>
+  <rect x="455" y="265" rx="26" width="280" height="210" fill="#def6ef" stroke="#26846d" stroke-width="4"/>
+  <text x="595" y="330" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#17624f">SYSTEMS REMEMBER</text>
+  <text x="595" y="382" text-anchor="middle" font-family="Arial" font-size="22" fill="#2e6156">observe • bind • preserve</text>
+  <text x="595" y="418" text-anchor="middle" font-family="Arial" font-size="22" fill="#2e6156">versioned evidence</text>
+  <rect x="820" y="265" rx="26" width="280" height="210" fill="#fff0d6" stroke="#c47b12" stroke-width="4"/>
+  <text x="960" y="330" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#8a5205">RULES AUTHORIZE</text>
+  <text x="960" y="382" text-anchor="middle" font-family="Arial" font-size="22" fill="#7a5b2d">evaluate • scope • expire</text>
+  <text x="960" y="418" text-anchor="middle" font-family="Arial" font-size="22" fill="#7a5b2d">narrow grant</text>
+  <rect x="1185" y="265" rx="26" width="280" height="210" fill="#eee4fa" stroke="#7750a6" stroke-width="4"/>
+  <text x="1325" y="330" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#57357e">PEOPLE GOVERN</text>
+  <text x="1325" y="382" text-anchor="middle" font-family="Arial" font-size="22" fill="#644c7c">judge • accept • amend</text>
+  <text x="1325" y="418" text-anchor="middle" font-family="Arial" font-size="22" fill="#644c7c">exceptions and risk</text>
+  <line x1="370" y1="370" x2="445" y2="370" stroke="#385985" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="735" y1="370" x2="810" y2="370" stroke="#385985" stroke-width="5" marker-end="url(#arrow)"/>
+  <rect x="660" y="610" rx="26" width="380" height="145" fill="#17233c"/>
+  <text x="850" y="662" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#ffffff">ENFORCEMENT POINT</text>
+  <text x="850" y="710" text-anchor="middle" font-family="Arial" font-size="21" fill="#d9e5f5">the action cannot become real without the grant</text>
+  <line x1="960" y1="475" x2="900" y2="602" stroke="#385985" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="1325" y1="475" x2="1018" y2="620" stroke="#7750a6" stroke-width="4" stroke-dasharray="12 10" marker-end="url(#arrow)"/>
+  <text x="1210" y="570" font-family="Arial" font-size="20" fill="#644c7c">exception or accountable decision</text>
+  <text x="800" y="835" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#17233c">Functions may share technology. Their powers must remain legible.</text>
+</svg>

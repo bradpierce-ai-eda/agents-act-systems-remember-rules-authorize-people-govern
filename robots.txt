@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce.ai/agents-act-systems-remember-rules-authorize-people-govern/sitemap.xml

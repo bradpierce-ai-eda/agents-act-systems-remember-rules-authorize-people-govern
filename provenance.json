@@ -1,0 +1,202 @@
+{
+  "authority": "Frozen Zenodo publication; representation changes do not revise the intellectual content.",
+  "record": "https://zenodo.org/records/22842198",
+  "doi": "10.5281/zenodo.22842198",
+  "concept_doi": "10.5281/zenodo.22842197",
+  "published_on": "2026-09-19",
+  "generated_on": "2026-10-12",
+  "source_pdf": {
+    "file": "agents-act-systems-remember-rules-authorize-people-govern.pdf",
+    "bytes": 1412484,
+    "pages": 16,
+    "sha256": "51987f1c4f6ce3cfe5511af0b367ef56086d1de0b68e13995231176ba700c214",
+    "md5": "2f86e1cff11fc14f487f56f837c5da47"
+  },
+  "semantic_source": {
+    "file": "source/paper.json",
+    "sha256": "fed038a6f2143584851c4a4cd7a6199adbc502ea67ee50bcb48771180a79f0ae",
+    "input_docx_sha256": "968ec2e0e7b3e799d9c40884d93bc51c08a6975b66637a0bbc15079070cbce3e",
+    "paragraph_table_text_objects_verified_against_pdf": 281
+  },
+  "figures": [
+    {
+      "kind": "figure",
+      "number": "1",
+      "file": "figures/figure-1.png",
+      "svg": "figures/figure-1.svg",
+      "title": "Four offices of governed agency",
+      "transcript": [
+        "Four offices of governed agency",
+        "Work becomes consequential only through evidence, scoped authority, and accountable government.",
+        "AGENTS ACT",
+        "propose • build • repair",
+        "request validation",
+        "SYSTEMS REMEMBER",
+        "observe • bind • preserve",
+        "versioned evidence",
+        "RULES AUTHORIZE",
+        "evaluate • scope • expire",
+        "narrow grant",
+        "PEOPLE GOVERN",
+        "judge • accept • amend",
+        "exceptions and risk",
+        "ENFORCEMENT POINT",
+        "the action cannot become real without the grant",
+        "exception or accountable decision",
+        "Functions may share technology. Their powers must remain legible."
+      ],
+      "svg_sha256": "23bb4dda04f2f3e16a33b178c74d7ce564c1962589a312d05d0f4ac4654697e6",
+      "png_sha256": "1b92620b5447c11b97b9928d36873b336e09e54dc639a6204c25461a61f1dfa1",
+      "relationships": [
+        "The main chain runs from Agents act to Systems remember to Rules authorize to People govern.",
+        "Rules authorize feeds the enforcement point; People govern feeds it through a distinct exception or accountable-decision path.",
+        "The enforcement point prevents the proposed action from becoming real without a grant."
+      ]
+    },
+    {
+      "kind": "figure",
+      "number": "2",
+      "file": "figures/figure-2.png",
+      "svg": "figures/figure-2.svg",
+      "title": "Self-certification isn’t governed autonomy",
+      "transcript": [
+        "Self-certification isn’t governed autonomy",
+        "ONE EFFECTIVE ACTOR",
+        "ACT",
+        "REPORT",
+        "PROCEED",
+        "JUDGE",
+        "The log is inside the same control boundary",
+        "SEPARATED AUTHORITY",
+        "ACTOR",
+        "EVIDENCE",
+        "independently governed",
+        "VERSIONED RULE",
+        "issues narrow grant",
+        "ENFORCEMENT",
+        "checks at commit time",
+        "Component count does not create governance. Control boundaries do."
+      ],
+      "svg_sha256": "10a001c4b2d147ccf6339d4fc238c1babbd111322d178c9c045df7e832b80cec",
+      "png_sha256": "2098b0d46f91d582789bffd50472db33342e0c9b0217de8bb0ec65fe403be6d1",
+      "relationships": [
+        "The one-effective-actor panel cycles through Act, Report, Proceed, and Judge inside one control boundary; its log is inside that boundary.",
+        "The separated-authority panel runs Actor to independently governed Evidence to a Versioned rule to Enforcement checked at commit time."
+      ]
+    },
+    {
+      "kind": "figure",
+      "number": "3",
+      "file": "figures/figure-3.png",
+      "svg": "figures/figure-3.svg",
+      "title": "Evidence becomes scoped authority",
+      "transcript": [
+        "Evidence becomes scoped authority",
+        "A governed transition issues a capability—not a vague status.",
+        "PROPOSAL",
+        "exact object",
+        "OBSERVE",
+        "attributed facts",
+        "VERIFY",
+        "fresh and competent",
+        "RULE",
+        "named version",
+        "GRANT",
+        "principal",
+        "object digest",
+        "operation",
+        "policy",
+        "expiry",
+        "invalidators",
+        "evidence digest • one-use / bounded delegation",
+        "COMMIT",
+        "recheck + enforce",
+        "Execution and outcome return as new evidence",
+        "Permission is where facts become power."
+      ],
+      "svg_sha256": "8842d88e73dbf055f957a9cc78f2f7e265fd5bbdc00b3c0e1ac6aa1cc2c65dd7",
+      "png_sha256": "8e62ec95887f47628812b64cdf9eec54bcb177fb4969788e398eeb3f90ca6b7b",
+      "relationships": [
+        "Proposal identifies the exact object; Observe supplies attributed facts; Verify checks fresh, competent evidence; Rule identifies a named version; Grant binds the principal, object, operation, invalidators, evidence digest, expiry and use conditions; Commit checks and enforces.",
+        "Execution and outcome return from Commit to Observe as new evidence."
+      ]
+    },
+    {
+      "kind": "figure",
+      "number": "4",
+      "file": "figures/figure-4.png",
+      "svg": "figures/figure-4.svg",
+      "title": "Put people where human authority changes the decision",
+      "transcript": [
+        "Put people where human authority changes the decision",
+        "ORDINARY MACHINE-VERIFIABLE PATH",
+        "current evidence • explicit rule • narrow grant • unavoidable enforcement",
+        "AUTHORIZED ACTION",
+        "no ceremonial approval required",
+        "JUDGMENT",
+        "RESPONSIBILITY",
+        "EXCEPTION",
+        "RISK",
+        "DECISION PACKET",
+        "facts + provenance",
+        "uncertainty + options",
+        "impact + reversibility",
+        "real veto + owner",
+        "People don’t repeat the machine’s work. They decide the part that remains legitimately human."
+      ],
+      "svg_sha256": "7add711d9527d1870bd47198bf44d42dd351c617e2ab65b74e58233fe0eb40e2",
+      "png_sha256": "43c5e26b3902aa1c9b37436f8947f279d575cd715918302a009c0ed2954651ea",
+      "relationships": [
+        "The ordinary machine-verifiable path leads to authorized action without ceremonial approval.",
+        "Judgment, Responsibility, Exception, and Risk connect to that path as separate human-governance triggers.",
+        "The Decision packet contains facts and provenance, uncertainty and options, impact and reversibility, and a real veto with an owner."
+      ]
+    },
+    {
+      "kind": "figure",
+      "number": "5",
+      "file": "figures/figure-5.png",
+      "svg": "figures/figure-5.svg",
+      "title": "One software change: normal flow, invalidation, and recovery",
+      "transcript": [
+        "One software change: normal flow, invalidation, and recovery",
+        "AGENT",
+        "commit C",
+        "BUILD",
+        "artifact A + inputs",
+        "VALIDATE",
+        "tests • scan • stage",
+        "RULE P17",
+        "grant G",
+        "MERGE",
+        "commit-time recheck",
+        "DEPLOY",
+        "new grant + staged exposure",
+        "DEPENDENCY CHANGES",
+        "old test stays true; grant dies",
+        "VALIDATOR COMPROMISED",
+        "source loses competence",
+        "GRANT REPLAY / BYPASS",
+        "deny + security record",
+        "DENY • REVALIDATE • NARROW • ESCALATE • ROLLBACK",
+        "A mature process knows how authority disappears."
+      ],
+      "svg_sha256": "05b326e341375d380b10a110b0f907b08d8d439c8cb17a2c678b3ba70c596f60",
+      "png_sha256": "131509da05f1196f6545d2f66833d94960f5f3e1bdd5be938699a6ef6ba94207",
+      "relationships": [
+        "The normal software-change path runs Agent to Build to Validate to Rule P17 to Merge to Deploy.",
+        "Dependency changes invalidate validation: the old test stays true and the grant dies. A compromised validator loses source competence. Grant replay or bypass is denied and produces a security record at Merge.",
+        "Recovery choices are deny, revalidate, narrow, escalate, and rollback; a mature process knows how authority disappears."
+      ]
+    }
+  ],
+  "transformations": [
+    "Static HTML and Markdown from frozen publication paragraph/table/figure semantics.",
+    "Displayed PNGs extracted from the unchanged release PDF; current individual SVG masters preserved.",
+    "Figure labels and directed relationships faithfully transcribed from the five released diagrams.",
+    "Title line wrapping normalized to spaces without changing words or punctuation.",
+    "Two author/contribution callout tables and 49 native list items retain source grouping.",
+    "Scholarly opening and declarative relevance metadata remain outside the canonical body."
+  ],
+  "validation": "scripts/validate_derivative.py checks complete ordered content, unchanged PDF/assets, metadata, bibliography, deterministic views and exact release manifest."
+}

@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "f117_ref_001",
+    "type": "article-journal",
+    "title": "The Protection of Information in Computer Systems",
+    "container-title": "Proceedings of the IEEE",
+    "volume": "63",
+    "issue": "9",
+    "page": "1278-1308",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "language": "en",
+    "DOI": "10.1109/proc.1975.9939",
+    "URL": "https://web.mit.edu/Saltzer/www/publications/protection/",
+    "author": [
+      {
+        "family": "Saltzer",
+        "given": "J.H."
+      },
+      {
+        "family": "Schroeder",
+        "given": "M.D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-001. Published context: 1. Saltzer, J. H., and Schroeder, M. D. “The Protection of Information in Computer Systems.”"
+  },
+  {
+    "id": "f117_ref_002",
+    "type": "paper-conference",
+    "title": "A Comparison of Commercial and Military Computer Security Policies",
+    "container-title": "1987 IEEE Symposium on Security and Privacy",
+    "page": "184-184",
+    "publisher": "IEEE",
+    "language": "en",
+    "DOI": "10.1109/sp.1987.10001",
+    "URL": "https://doi.org/10.1109/sp.1987.10001",
+    "author": [
+      {
+        "family": "Clark",
+        "given": "David D."
+      },
+      {
+        "family": "Wilson",
+        "given": "David R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          4
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-002. Published context: 2. Clark, D. D., and Wilson, D. R. “A Comparison of Commercial and Military Computer Security Policies.”"
+  },
+  {
+    "id": "f117_ref_003",
+    "type": "standard",
+    "title": "eXtensible Access Control Markup Language (XACML) Version 3.0",
+    "publisher": "OASIS",
+    "language": "en",
+    "URL": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+    "author": [
+      {
+        "literal": "OASIS"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "XACML Version 3.0; OASIS Standard. Published reference slots: ref-003. Published context: 3. OASIS. “eXtensible Access Control Markup Language (XACML) Version 3.0.”"
+  },
+  {
+    "id": "f117_ref_004",
+    "type": "paper-conference",
+    "title": "Zanzibar: Google’s Consistent, Global Authorization System",
+    "container-title": "2019 USENIX Annual Technical Conference",
+    "publisher": "USENIX Association",
+    "language": "en",
+    "URL": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+    "author": [
+      {
+        "family": "Pang",
+        "given": "Ruoming"
+      },
+      {
+        "family": "Caceres",
+        "given": "Ramon"
+      },
+      {
+        "family": "Burrows",
+        "given": "Mike"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhifeng"
+      },
+      {
+        "family": "Dave",
+        "given": "Pratik"
+      },
+      {
+        "family": "Germer",
+        "given": "Nathan"
+      },
+      {
+        "family": "Golynski",
+        "given": "Alexander"
+      },
+      {
+        "family": "Graney",
+        "given": "Kevin"
+      },
+      {
+        "family": "Kang",
+        "given": "Nina"
+      },
+      {
+        "family": "Kissner",
+        "given": "Lea"
+      },
+      {
+        "family": "Korn",
+        "given": "Jeffrey L."
+      },
+      {
+        "family": "Parmar",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Richards",
+        "given": "Christina D."
+      },
+      {
+        "family": "Wang",
+        "given": "Mengzhi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-004. Published context: 4. Pang, R., and collaborators. “Zanzibar: Google’s Consistent, Global Authorization System.”"
+  },
+  {
+    "id": "f117_ref_005",
+    "type": "webpage",
+    "title": "Open Policy Agent documentation",
+    "language": "en",
+    "URL": "https://www.openpolicyagent.org/docs/latest/",
+    "author": [
+      {
+        "literal": "Open Policy Agent"
+      }
+    ],
+    "note": "Published reference slots: ref-005. Published context: 5. Open Policy Agent. Documentation."
+  },
+  {
+    "id": "f117_ref_006",
+    "type": "paper-conference",
+    "title": "Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud",
+    "container-title": "Network and Distributed System Security Symposium 2014",
+    "publisher": "Internet Society",
+    "language": "en",
+    "URL": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+    "author": [
+      {
+        "family": "Birgisson",
+        "given": "Arnar"
+      },
+      {
+        "family": "Politz",
+        "given": "Joe Gibbs"
+      },
+      {
+        "family": "Erlingsson",
+        "given": "Úlfar"
+      },
+      {
+        "family": "Taly",
+        "given": "Ankur"
+      },
+      {
+        "family": "Vrable",
+        "given": "Michael"
+      },
+      {
+        "family": "Lentczner",
+        "given": "Mark"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-006. Published context: 6. Birgisson, A., and collaborators. “Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud.”"
+  },
+  {
+    "id": "f117_ref_007",
+    "type": "standard",
+    "title": "PROV-O: The PROV Ontology",
+    "publisher": "W3C",
+    "language": "en",
+    "URL": "https://www.w3.org/TR/prov-o/",
+    "author": [
+      {
+        "literal": "W3C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          4,
+          30
+        ]
+      ]
+    },
+    "note": "W3C Recommendation; editors Timothy Lebo, Satya Sahoo, Deborah McGuinness are named in the authority. Published reference slots: ref-007. Published context: 7. W3C. “PROV-O: The PROV Ontology.”"
+  },
+  {
+    "id": "f117_ref_008",
+    "type": "standard",
+    "title": "Remote ATtestation procedureS (RATS) Architecture",
+    "publisher": "RFC Editor",
+    "language": "en",
+    "DOI": "10.17487/rfc9334",
+    "URL": "https://www.rfc-editor.org/rfc/rfc9334",
+    "author": [
+      {
+        "family": "Birkholz",
+        "given": "H."
+      },
+      {
+        "family": "Thaler",
+        "given": "D."
+      },
+      {
+        "family": "Richardson",
+        "given": "M."
+      },
+      {
+        "family": "Smith",
+        "given": "N."
+      },
+      {
+        "family": "Pan",
+        "given": "W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          13
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-008. Published context: 8. IETF. RFC 9334: “Remote ATtestation procedureS (RATS) Architecture.”"
+  },
+  {
+    "id": "f117_ref_009",
+    "type": "paper-conference",
+    "title": "in-toto: Providing farm-to-table guarantees for bits and bytes",
+    "container-title": "28th USENIX Security Symposium (USENIX Security 19)",
+    "page": "1393-1410",
+    "publisher": "USENIX Association",
+    "language": "en",
+    "URL": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+    "author": [
+      {
+        "family": "Torres-Arias",
+        "given": "Santiago"
+      },
+      {
+        "family": "Afzali",
+        "given": "Hammad"
+      },
+      {
+        "family": "Kuppusamy",
+        "given": "Trishank Karthik"
+      },
+      {
+        "family": "Curtmola",
+        "given": "Reza"
+      },
+      {
+        "family": "Cappos",
+        "given": "Justin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-009. Published context: 9. Torres-Arias, S., and collaborators. “in-toto: Providing Farm-to-Table Guarantees for Bits and Bytes.”"
+  },
+  {
+    "id": "f117_ref_010",
+    "type": "webpage",
+    "title": "in-toto project documentation",
+    "language": "en",
+    "URL": "https://in-toto.io/docs/",
+    "author": [
+      {
+        "literal": "in-toto"
+      }
+    ],
+    "note": "Published reference slots: ref-010. Published context: 10. in-toto. Project documentation."
+  },
+  {
+    "id": "f117_ref_011",
+    "type": "standard",
+    "title": "SLSA specification, version 1.2",
+    "publisher": "SLSA",
+    "language": "en",
+    "URL": "https://slsa.dev/spec/v1.2/",
+    "author": [
+      {
+        "literal": "SLSA"
+      }
+    ],
+    "note": "Approved specification version 1.2; no publication date installed from the undated landing page. Published reference slots: ref-011. Published context: 11. SLSA. Specification 1.2."
+  },
+  {
+    "id": "f117_ref_012",
+    "type": "webpage",
+    "title": "Sigstore documentation",
+    "language": "en",
+    "URL": "https://docs.sigstore.dev/",
+    "author": [
+      {
+        "literal": "Sigstore"
+      }
+    ],
+    "note": "Published reference slots: ref-012. Published context: 12. Sigstore. Documentation."
+  },
+  {
+    "id": "f117_ref_013",
+    "type": "report",
+    "title": "Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities",
+    "language": "en",
+    "DOI": "10.6028/nist.sp.800-218",
+    "URL": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "author": [
+      {
+        "family": "Souppaya",
+        "given": "Murugiah"
+      },
+      {
+        "family": "Scarfone",
+        "given": "Karen"
+      },
+      {
+        "family": "Dodson",
+        "given": "Donna"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          3
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-013. Published context: 13. NIST. SP 800-218: Secure Software Development Framework."
+  },
+  {
+    "id": "f117_ref_014",
+    "type": "webpage",
+    "title": "About protected branches",
+    "language": "en",
+    "URL": "https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+    "author": [
+      {
+        "literal": "GitHub"
+      }
+    ],
+    "note": "Published reference slots: ref-014. Published context: 14. GitHub. “About protected branches.”"
+  },
+  {
+    "id": "f117_ref_015",
+    "type": "article-journal",
+    "title": "Enforceable security policies",
+    "container-title": "ACM Transactions on Information and System Security",
+    "volume": "3",
+    "issue": "1",
+    "page": "30-50",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/353323.353382",
+    "URL": "https://doi.org/10.1145/353323.353382",
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "Fred B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-015. Published context: 15. Schneider, F. B. “Enforceable Security Policies.”"
+  },
+  {
+    "id": "f117_ref_016",
+    "type": "article-journal",
+    "title": "Ironies of automation",
+    "container-title": "Automatica",
+    "volume": "19",
+    "issue": "6",
+    "page": "775-779",
+    "publisher": "Elsevier BV",
+    "language": "en",
+    "DOI": "10.1016/0005-1098(83)90046-8",
+    "URL": "https://doi.org/10.1016/0005-1098(83)90046-8",
+    "author": [
+      {
+        "family": "Bainbridge",
+        "given": "Lisanne"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983,
+          11
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-016. Published context: 16. Bainbridge, L. “Ironies of Automation.”"
+  },
+  {
+    "id": "f117_ref_017",
+    "type": "article-journal",
+    "title": "A model for types and levels of human interaction with automation",
+    "container-title": "IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans",
+    "volume": "30",
+    "issue": "3",
+    "page": "286-297",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "language": "en",
+    "DOI": "10.1109/3468.844354",
+    "URL": "https://doi.org/10.1109/3468.844354",
+    "author": [
+      {
+        "family": "Parasuraman",
+        "given": "R."
+      },
+      {
+        "family": "Sheridan",
+        "given": "T.B."
+      },
+      {
+        "family": "Wickens",
+        "given": "C.D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          5
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-017. Published context: 17. Parasuraman, R., Sheridan, T. B., and Wickens, C. D. “A Model for Types and Levels of Human Interaction with Automation.”"
+  },
+  {
+    "id": "f117_ref_018",
+    "type": "article-journal",
+    "title": "Trust in Automation: Designing for Appropriate Reliance",
+    "container-title": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+    "volume": "46",
+    "issue": "1",
+    "page": "50-80",
+    "publisher": "Oxford University Press (OUP)",
+    "language": "en",
+    "DOI": "10.1518/hfes.46.1.50_30392",
+    "URL": "https://doi.org/10.1518/hfes.46.1.50_30392",
+    "author": [
+      {
+        "family": "Lee",
+        "given": "J. D."
+      },
+      {
+        "family": "See",
+        "given": "K. A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          1,
+          1
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-018. Published context: 18. Lee, J. D., and See, K. A. “Trust in Automation: Designing for Appropriate Reliance.”"
+  },
+  {
+    "id": "f117_ref_019",
+    "type": "article-journal",
+    "title": "Meaningful Human Control over Autonomous Systems: A Philosophical Account",
+    "container-title": "Frontiers in Robotics and AI",
+    "volume": "5",
+    "publisher": "Frontiers Media SA",
+    "language": "en",
+    "DOI": "10.3389/frobt.2018.00015",
+    "URL": "https://doi.org/10.3389/frobt.2018.00015",
+    "author": [
+      {
+        "family": "Santoni de Sio",
+        "given": "Filippo"
+      },
+      {
+        "family": "van den Hoven",
+        "given": "Jeroen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          28
+        ]
+      ]
+    },
+    "note": "Metadata adjudication: Published DOI returns no Crossref record; title and both authors match the Frontiers article at 10.3389/frobt.2018.00015. The full normalized title includes its subtitle. Published reference slots: ref-019. Published context: 19. Santoni de Sio, F., and van den Hoven, J. “Meaningful Human Control over Autonomous Systems.”"
+  },
+  {
+    "id": "f117_ref_020",
+    "type": "article-journal",
+    "title": "Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction",
+    "container-title": "Engaging Science, Technology, and Society",
+    "volume": "5",
+    "page": "40-60",
+    "language": "en",
+    "DOI": "10.17351/ests2019.260",
+    "URL": "https://estsjournal.org/index.php/ests/article/view/260",
+    "author": [
+      {
+        "family": "Elish",
+        "given": "Madeleine Clare"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          23
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-020. Published context: 20. Elish, M. C. “Moral Crumple Zones: Cautionary Tales in Human–Robot Interaction.”"
+  },
+  {
+    "id": "f117_ref_021",
+    "type": "webpage",
+    "title": "AI Risk Management Framework",
+    "language": "en",
+    "URL": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "author": [
+      {
+        "literal": "NIST"
+      }
+    ],
+    "note": "General NIST framework portal; the short published reference does not identify a specific report edition, so no report date/version is inferred. Published reference slots: ref-021. Published context: 21. NIST. AI Risk Management Framework."
+  },
+  {
+    "id": "f117_ref_022",
+    "type": "thesis",
+    "title": "Arguing Safety: A Systematic Approach to Managing Safety Cases",
+    "language": "en",
+    "author": [
+      {
+        "family": "Kelly",
+        "given": "T. P."
+      }
+    ],
+    "note": "Dissertation identified in the published reference and institutional literature. Published White Rose locator points to an unrelated peacebuilding thesis; a historical York PDF locator now redirects to a generic homepage. Publication year and a currently serving thesis locator remain unresolved. Metadata adjudication: Live White Rose page is an unrelated peacebuilding thesis. Historical York PDF route no longer serves the dissertation. A false replacement locator/date is not installed. Published reference slots: ref-022. Published context: 22. Kelly, T. P. “Arguing Safety: A Systematic Approach to Managing Safety Cases.”"
+  },
+  {
+    "id": "f117_ref_023",
+    "type": "webpage",
+    "title": "AI Agent Security Cheat Sheet",
+    "language": "en",
+    "URL": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+    "author": [
+      {
+        "literal": "OWASP"
+      }
+    ],
+    "note": "Published reference slots: ref-023. Published context: 23. OWASP. AI Agent Security Cheat Sheet."
+  },
+  {
+    "id": "f117_ref_024",
+    "type": "report",
+    "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "publisher": "National Institute of Standards and Technology",
+    "language": "en",
+    "DOI": "10.6028/nist.ai.600-1",
+    "URL": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "author": [
+      {
+        "literal": "NIST"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7
+        ]
+      ]
+    },
+    "note": "NIST AI 600-1; publication identity/date from the official PDF cover. Published reference slots: ref-024. Published context: 24. NIST. AI 600-1: Artificial Intelligence Risk Management Framework—Generative AI Profile."
+  },
+  {
+    "id": "f117_ref_025",
+    "type": "report",
+    "title": "Practices for Governing Agentic AI Systems",
+    "publisher": "OpenAI",
+    "language": "en",
+    "URL": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+    "author": [
+      {
+        "family": "Shavit",
+        "given": "Yonadav"
+      },
+      {
+        "family": "Agarwal",
+        "given": "Sandhini"
+      },
+      {
+        "family": "Brundage",
+        "given": "Miles"
+      },
+      {
+        "family": "Adler",
+        "given": "Steven"
+      },
+      {
+        "family": "O’Keefe",
+        "given": "Cullen"
+      },
+      {
+        "family": "Campbell",
+        "given": "Rosie"
+      },
+      {
+        "family": "Lee",
+        "given": "Teddy"
+      },
+      {
+        "family": "Mishkin",
+        "given": "Pamela"
+      },
+      {
+        "family": "Eloundou",
+        "given": "Tyna"
+      },
+      {
+        "family": "Hickey",
+        "given": "Alan"
+      },
+      {
+        "family": "Slama",
+        "given": "Katarina"
+      },
+      {
+        "family": "Ahmad",
+        "given": "Lama"
+      },
+      {
+        "family": "McMillan",
+        "given": "Paul"
+      },
+      {
+        "family": "Beutel",
+        "given": "Alex"
+      },
+      {
+        "family": "Passos",
+        "given": "Alexandre"
+      },
+      {
+        "family": "Robinson",
+        "given": "David G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          14
+        ]
+      ]
+    },
+    "note": "Metadata adjudication: Current official web wrapper lists Andrea Vallone in the place occupied by Alex Beutel in the linked paper PDF. The reusable record follows the paper PDF, with the wrapper used only for its publication date. Published reference slots: ref-025. Published context: 25. Shavit, Y., and collaborators. “Practices for Governing Agentic AI Systems.”"
+  },
+  {
+    "id": "f117_ref_026",
+    "type": "manuscript",
+    "title": "MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems",
+    "publisher": "arXiv",
+    "language": "en",
+    "DOI": "10.48550/arxiv.2508.03858",
+    "URL": "https://arxiv.org/abs/2508.03858v1",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Charles L."
+      },
+      {
+        "family": "Singhal",
+        "given": "Trisha"
+      },
+      {
+        "family": "Kelkar",
+        "given": "Ameya"
+      },
+      {
+        "family": "Tuo",
+        "given": "Jason"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          5
+        ]
+      ]
+    },
+    "note": "Version 1 title is the work cited by the published paper; later arXiv versions use MI9: An Integrated Runtime Governance Framework for Agentic AI. Metadata adjudication: The v1 responsible repository identifies Charles L. Wang, not an author with given initial S. The canonical reference remains untouched. Preprint or manuscript; no completed peer-reviewed venue inferred. Published reference slots: ref-026. Published context: 26. Wang, S., and collaborators. “MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems.”"
+  },
+  {
+    "id": "f117_ref_027",
+    "type": "manuscript",
+    "title": "OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access",
+    "publisher": "arXiv",
+    "language": "en",
+    "DOI": "10.48550/arxiv.2602.20196",
+    "URL": "https://arxiv.org/abs/2602.20196",
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Genliang"
+      },
+      {
+        "family": "Wang",
+        "given": "Chu"
+      },
+      {
+        "family": "Wang",
+        "given": "Ziyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Zhida"
+      },
+      {
+        "family": "Li",
+        "given": "Qiang"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          22
+        ]
+      ]
+    },
+    "note": "Metadata adjudication: Responsible arXiv record identifies Genliang Zhu. The published initial Y. is preserved in the source slot, not used to overwrite verified author metadata. Preprint or manuscript; no completed peer-reviewed venue inferred. Published reference slots: ref-027. Published context: 27. Zhu, Y., and collaborators. “OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access.”"
+  },
+  {
+    "id": "f117_ref_028",
+    "type": "report",
+    "title": "Model AI Governance Framework for Agentic AI",
+    "publisher": "Infocomm Media Development Authority",
+    "language": "en",
+    "URL": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "author": [
+      {
+        "literal": "IMDA"
+      },
+      {
+        "literal": "AI Verify Foundation"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          20
+        ]
+      ]
+    },
+    "note": "Version 1.5; official PDF says published 20 May 2026 and updated 5 June 2026. Published reference slots: ref-028. Published context: 28. IMDA and AI Verify Foundation. “Model AI Governance Framework for Agentic AI.”"
+  },
+  {
+    "id": "f117_ref_029",
+    "type": "manuscript",
+    "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+    "publisher": "arXiv",
+    "language": "en",
+    "DOI": "10.48550/arxiv.2302.06590",
+    "URL": "https://arxiv.org/abs/2302.06590",
+    "author": [
+      {
+        "family": "Peng",
+        "given": "Sida"
+      },
+      {
+        "family": "Kalliamvakou",
+        "given": "Eirini"
+      },
+      {
+        "family": "Cihon",
+        "given": "Peter"
+      },
+      {
+        "family": "Demirer",
+        "given": "Mert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          13
+        ]
+      ]
+    },
+    "note": "Preprint or manuscript; no completed peer-reviewed venue inferred. Published reference slots: ref-029. Published context: 29. Peng, S., and collaborators. “The Impact of AI on Developer Productivity: Evidence from GitHub Copilot.”"
+  },
+  {
+    "id": "f117_ref_030",
+    "type": "webpage",
+    "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+    "container-title": "METR Blog",
+    "language": "en",
+    "URL": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "author": [
+      {
+        "literal": "METR"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          10
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-030. Published context: 30. METR. “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.”"
+  },
+  {
+    "id": "f117_ref_031",
+    "type": "article-journal",
+    "title": "The Out-of-the-Loop Performance Problem and Level of Control in Automation",
+    "container-title": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+    "volume": "37",
+    "issue": "2",
+    "page": "381-394",
+    "publisher": "SAGE Publications",
+    "language": "en",
+    "DOI": "10.1518/001872095779064555",
+    "URL": "https://doi.org/10.1518/001872095779064555",
+    "author": [
+      {
+        "family": "Endsley",
+        "given": "Mica R."
+      },
+      {
+        "family": "Kiris",
+        "given": "Esin O."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-031. Published context: 31. Endsley, M. R., and Kiris, E. O. “The Out-of-the-Loop Performance Problem and Level of Control in Automation.” Human Factors."
+  },
+  {
+    "id": "f117_ref_032",
+    "type": "article-journal",
+    "title": "To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making",
+    "container-title": "Proceedings of the ACM on Human-Computer Interaction",
+    "volume": "5",
+    "issue": "CSCW1",
+    "page": "1-21",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/3449287",
+    "URL": "https://doi.org/10.1145/3449287",
+    "author": [
+      {
+        "family": "Buçinca",
+        "given": "Zana"
+      },
+      {
+        "family": "Malaya",
+        "given": "Maja Barbara"
+      },
+      {
+        "family": "Gajos",
+        "given": "Krzysztof Z."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          13
+        ]
+      ]
+    },
+    "note": "Metadata adjudication: Responsible DOI registry identifies Proceedings of the ACM on Human-Computer Interaction, volume 5, CSCW1. The normalized record follows the journal metadata; source slot retains its published venue wording. Published reference slots: ref-032. Published context: 32. Buçinca, Z., Malaya, M. B., and Gajos, K. Z. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems."
+  },
+  {
+    "id": "f117_ref_033",
+    "type": "article-journal",
+    "title": "Do as AI say: susceptibility in deployment of clinical decision-aids",
+    "container-title": "npj Digital Medicine",
+    "volume": "4",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "language": "en",
+    "DOI": "10.1038/s41746-021-00385-9",
+    "URL": "https://doi.org/10.1038/s41746-021-00385-9",
+    "author": [
+      {
+        "family": "Gaube",
+        "given": "Susanne"
+      },
+      {
+        "family": "Suresh",
+        "given": "Harini"
+      },
+      {
+        "family": "Raue",
+        "given": "Martina"
+      },
+      {
+        "family": "Merritt",
+        "given": "Alexander"
+      },
+      {
+        "family": "Berkowitz",
+        "given": "Seth J."
+      },
+      {
+        "family": "Lermer",
+        "given": "Eva"
+      },
+      {
+        "family": "Coughlin",
+        "given": "Joseph F."
+      },
+      {
+        "family": "Guttag",
+        "given": "John V."
+      },
+      {
+        "family": "Colak",
+        "given": "Errol"
+      },
+      {
+        "family": "Ghassemi",
+        "given": "Marzyeh"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-033. Published context: 33. Gaube, S., and collaborators. “Do as AI Say: Susceptibility in Deployment of Clinical Decision-Aids.” npj Digital Medicine."
+  },
+  {
+    "id": "f117_ref_034",
+    "type": "article-journal",
+    "title": "THE APPLICATION OF PETRI NETS TO WORKFLOW MANAGEMENT",
+    "container-title": "Journal of Circuits, Systems and Computers",
+    "volume": "08",
+    "issue": "01",
+    "page": "21-66",
+    "publisher": "World Scientific Pub Co Pte Ltd",
+    "language": "en",
+    "DOI": "10.1142/s0218126698000043",
+    "URL": "https://doi.org/10.1142/s0218126698000043",
+    "author": [
+      {
+        "family": "VAN DER AALST",
+        "given": "W. M. P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-034. Published context: 34. van der Aalst, W. M. P. “The Application of Petri Nets to Workflow Management.” Journal of Circuits, Systems and Computers."
+  },
+  {
+    "id": "f117_ref_035",
+    "type": "article-journal",
+    "title": "The UCONABC Usage Control Model",
+    "container-title": "ACM Transactions on Information and System Security",
+    "volume": "7",
+    "issue": "1",
+    "page": "128-174",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "language": "en",
+    "DOI": "10.1145/984334.984339",
+    "URL": "https://doi.org/10.1145/984334.984339",
+    "author": [
+      {
+        "family": "Park",
+        "given": "Jaehong"
+      },
+      {
+        "family": "Sandhu",
+        "given": "Ravi"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-035. Published context: 35. Park, J., and Sandhu, R. “The UCONABC Usage Control Model.” ACM Transactions on Information and System Security."
+  },
+  {
+    "id": "f117_ref_036",
+    "type": "standard",
+    "title": "OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens",
+    "publisher": "RFC Editor",
+    "language": "en",
+    "URL": "https://www.rfc-editor.org/rfc/rfc8705.html",
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Bradley",
+        "given": "J."
+      },
+      {
+        "family": "Sakimura",
+        "given": "N."
+      },
+      {
+        "family": "Lodderstedt",
+        "given": "T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-036. Published context: 36. IETF. RFC 8705: “OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens.”"
+  },
+  {
+    "id": "f117_ref_037",
+    "type": "standard",
+    "title": "OAuth 2.0 Demonstrating Proof of Possession (DPoP)",
+    "publisher": "RFC Editor",
+    "language": "en",
+    "URL": "https://www.rfc-editor.org/rfc/rfc9449.html",
+    "author": [
+      {
+        "family": "Fett",
+        "given": "D."
+      },
+      {
+        "family": "Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Bradley",
+        "given": "J."
+      },
+      {
+        "family": "Lodderstedt",
+        "given": "T."
+      },
+      {
+        "family": "Jones",
+        "given": "M."
+      },
+      {
+        "family": "Waite",
+        "given": "D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-037. Published context: 37. IETF. RFC 9449: “OAuth 2.0 Demonstrating Proof of Possession.”"
+  },
+  {
+    "id": "f117_ref_038",
+    "type": "webpage",
+    "title": "Binary Authorization for Borg",
+    "language": "en",
+    "URL": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+    "author": [
+      {
+        "literal": "Google"
+      }
+    ],
+    "note": "Official page verified through live public retrieval after direct client received Site Unavailable. Content update month September 2026 is not treated as the initial publication date. Published reference slots: ref-038. Published context: 38. Google. “Binary Authorization for Borg.”"
+  },
+  {
+    "id": "f117_ref_039",
+    "type": "webpage",
+    "title": "How Google Protects Its Production Services",
+    "language": "en",
+    "URL": "https://docs.cloud.google.com/docs/security/production-services-protection",
+    "author": [
+      {
+        "literal": "Google"
+      }
+    ],
+    "note": "Official page verified through live public retrieval. Content update month June 2026 and crawler publish-date metadata are not treated as the initial publication date. Published reference slots: ref-039. Published context: 39. Google. “How Google Protects Its Production Services.”"
+  },
+  {
+    "id": "f117_ref_040",
+    "type": "report",
+    "title": "In the Matter of Knight Capital Americas LLC",
+    "publisher": "U.S. Securities and Exchange Commission",
+    "language": "en",
+    "URL": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+    "author": [
+      {
+        "literal": "U.S. Securities and Exchange Commission"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "Exchange Act Release No. 70694; administrative proceeding File No. 3-15570. Published reference slots: ref-040. Published context: 40. U.S. Securities and Exchange Commission. “In the Matter of Knight Capital Americas LLC,” Exchange Act Release No. 70694."
+  },
+  {
+    "id": "f117_ref_041",
+    "type": "report",
+    "title": "External Technical Root Cause Analysis—Channel File 291",
+    "publisher": "CrowdStrike",
+    "language": "en",
+    "URL": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+    "author": [
+      {
+        "literal": "CrowdStrike"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-041. Published context: 41. CrowdStrike. “External Technical Root Cause Analysis—Channel File 291.”"
+  },
+  {
+    "id": "f117_ref_042",
+    "type": "standard",
+    "title": "Emergency Directive 21-01: Mitigate SolarWinds Orion Code Compromise",
+    "publisher": "Cybersecurity and Infrastructure Security Agency",
+    "language": "en",
+    "URL": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+    "author": [
+      {
+        "literal": "Cybersecurity and Infrastructure Security Agency"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          13
+        ]
+      ]
+    },
+    "note": "Directive issue date verified from the official CISA supplemental direction; current directive page includes later supplements and is marked Closed. Published reference slots: ref-042. Published context: 42. Cybersecurity and Infrastructure Security Agency. Emergency Directive 21-01: “Mitigate SolarWinds Orion Code Compromise.”"
+  },
+  {
+    "id": "f117_ref_043",
+    "type": "webpage",
+    "title": "Privacy Framework",
+    "language": "en",
+    "URL": "https://www.nist.gov/privacy-framework",
+    "author": [
+      {
+        "literal": "NIST"
+      }
+    ],
+    "note": "General NIST framework portal; no specific report edition/date inferred from the short published citation. Published reference slots: ref-043. Published context: 43. NIST. Privacy Framework."
+  },
+  {
+    "id": "f117_ref_044",
+    "type": "article-journal",
+    "title": "Organizational Learning: From Experience to Knowledge",
+    "container-title": "Organization Science",
+    "volume": "22",
+    "issue": "5",
+    "page": "1123-1137",
+    "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+    "language": "en",
+    "DOI": "10.1287/orsc.1100.0621",
+    "URL": "https://doi.org/10.1287/orsc.1100.0621",
+    "author": [
+      {
+        "family": "Argote",
+        "given": "Linda"
+      },
+      {
+        "family": "Miron-Spektor",
+        "given": "Ella"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "note": "Published reference slots: ref-044. Published context: 44. Argote, L., and Miron-Spektor, E. “Organizational Learning: From Experience to Knowledge.” Organization Science."
+  }
+]
