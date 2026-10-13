@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7f9fc"/>
+  <text x="80" y="90" font-family="Arial" font-size="42" font-weight="700" fill="#17233c">Put people where human authority changes the decision</text>
+  <defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#385985"/></marker></defs>
+  <rect x="90" y="250" rx="28" width="880" height="170" fill="#def6ef" stroke="#26846d" stroke-width="4"/>
+  <text x="530" y="315" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#17624f">ORDINARY MACHINE-VERIFIABLE PATH</text>
+  <text x="530" y="365" text-anchor="middle" font-family="Arial" font-size="22" fill="#2e6156">current evidence • explicit rule • narrow grant • unavoidable enforcement</text>
+  <line x1="970" y1="335" x2="1100" y2="335" stroke="#385985" stroke-width="6" marker-end="url(#a)"/>
+  <rect x="1110" y="250" rx="28" width="400" height="170" fill="#17233c"/>
+  <text x="1310" y="315" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#fff">AUTHORIZED ACTION</text>
+  <text x="1310" y="365" text-anchor="middle" font-family="Arial" font-size="21" fill="#d9e5f5">no ceremonial approval required</text>
+  <g font-family="Arial">
+    <rect x="100" y="555" rx="22" width="250" height="120" fill="#eee4fa" stroke="#7750a6" stroke-width="3"/><text x="225" y="625" text-anchor="middle" font-size="28" font-weight="700" fill="#57357e">JUDGMENT</text>
+    <rect x="400" y="555" rx="22" width="250" height="120" fill="#eee4fa" stroke="#7750a6" stroke-width="3"/><text x="525" y="625" text-anchor="middle" font-size="28" font-weight="700" fill="#57357e">RESPONSIBILITY</text>
+    <rect x="700" y="555" rx="22" width="250" height="120" fill="#eee4fa" stroke="#7750a6" stroke-width="3"/><text x="825" y="625" text-anchor="middle" font-size="28" font-weight="700" fill="#57357e">EXCEPTION</text>
+    <rect x="1000" y="555" rx="22" width="250" height="120" fill="#eee4fa" stroke="#7750a6" stroke-width="3"/><text x="1125" y="625" text-anchor="middle" font-size="28" font-weight="700" fill="#57357e">RISK</text>
+    <rect x="1300" y="520" rx="22" width="220" height="190" fill="#fff" stroke="#7750a6" stroke-width="4"/>
+    <text x="1410" y="565" text-anchor="middle" font-size="23" font-weight="700" fill="#57357e">DECISION PACKET</text>
+    <text x="1330" y="602" font-size="18" fill="#644c7c">facts + provenance</text><text x="1330" y="632" font-size="18" fill="#644c7c">uncertainty + options</text><text x="1330" y="662" font-size="18" fill="#644c7c">impact + reversibility</text><text x="1330" y="692" font-size="18" fill="#644c7c">real veto + owner</text>
+  </g>
+  <g stroke="#7750a6" stroke-width="4" stroke-dasharray="12 9" marker-end="url(#a)"><line x1="225" y1="555" x2="350" y2="425"/><line x1="525" y1="555" x2="520" y2="425"/><line x1="825" y1="555" x2="690" y2="425"/><line x1="1125" y1="555" x2="860" y2="425"/><line x1="1250" y1="615" x2="1290" y2="615"/></g>
+  <text x="800" y="835" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#17233c">People don’t repeat the machine’s work. They decide the part that remains legitimately human.</text>
+</svg>

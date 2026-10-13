@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7f9fc"/>
+  <text x="80" y="88" font-family="Arial" font-size="42" font-weight="700" fill="#17233c">Self-certification isn’t governed autonomy</text>
+  <rect x="70" y="155" rx="28" width="690" height="650" fill="#fff1f0" stroke="#c94a43" stroke-width="4"/>
+  <text x="415" y="220" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#9d2925">ONE EFFECTIVE ACTOR</text>
+  <circle cx="415" cy="455" r="180" fill="#ffffff" stroke="#c94a43" stroke-width="6"/>
+  <text x="415" y="355" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#7f2521">ACT</text>
+  <text x="520" y="445" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#7f2521">REPORT</text>
+  <text x="415" y="565" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#7f2521">PROCEED</text>
+  <text x="300" y="445" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#7f2521">JUDGE</text>
+  <path d="M415 300 A155 155 0 1 1 310 570" fill="none" stroke="#c94a43" stroke-width="12"/>
+  <polygon points="300,553 335,563 312,590" fill="#c94a43"/>
+  <rect x="250" y="665" rx="18" width="330" height="70" fill="#f7d1cf"/>
+  <text x="415" y="708" text-anchor="middle" font-family="Arial" font-size="22" fill="#7f2521">The log is inside the same control boundary</text>
+  <rect x="840" y="155" rx="28" width="690" height="650" fill="#edf7f4" stroke="#23816a" stroke-width="4"/>
+  <text x="1185" y="220" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#17624f">SEPARATED AUTHORITY</text>
+  <rect x="900" y="290" rx="20" width="220" height="105" fill="#dcecff" stroke="#2d65a3" stroke-width="3"/>
+  <text x="1010" y="355" text-anchor="middle" font-family="Arial" font-size="26" font-weight="700" fill="#153f70">ACTOR</text>
+  <rect x="1250" y="290" rx="20" width="220" height="105" fill="#def6ef" stroke="#26846d" stroke-width="3"/>
+  <text x="1360" y="340" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#17624f">EVIDENCE</text>
+  <text x="1360" y="372" text-anchor="middle" font-family="Arial" font-size="18" fill="#17624f">independently governed</text>
+  <rect x="1075" y="465" rx="20" width="220" height="105" fill="#fff0d6" stroke="#c47b12" stroke-width="3"/>
+  <text x="1185" y="515" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#8a5205">VERSIONED RULE</text>
+  <text x="1185" y="548" text-anchor="middle" font-family="Arial" font-size="18" fill="#8a5205">issues narrow grant</text>
+  <rect x="1075" y="640" rx="20" width="220" height="105" fill="#17233c"/>
+  <text x="1185" y="687" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#ffffff">ENFORCEMENT</text>
+  <text x="1185" y="720" text-anchor="middle" font-family="Arial" font-size="18" fill="#d9e5f5">checks at commit time</text>
+  <line x1="1120" y1="342" x2="1240" y2="342" stroke="#385985" stroke-width="5" marker-end="url(#a)"/>
+  <line x1="1360" y1="395" x2="1275" y2="458" stroke="#385985" stroke-width="5" marker-end="url(#a)"/>
+  <line x1="1185" y1="570" x2="1185" y2="630" stroke="#385985" stroke-width="5" marker-end="url(#a)"/>
+  <defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#385985"/></marker></defs>
+  <text x="800" y="860" text-anchor="middle" font-family="Arial" font-size="25" font-weight="700" fill="#17233c">Component count does not create governance. Control boundaries do.</text>
+</svg>
