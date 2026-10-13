@@ -1,0 +1,1317 @@
+[
+  {
+    "slot": 1,
+    "published_locator": "https://web.mit.edu/Saltzer/www/publications/protection/",
+    "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+    "title": "The Protection of Information in Computer Systems",
+    "authors": [
+      {
+        "family": "Saltzer",
+        "given": "J.H."
+      },
+      {
+        "family": "Schroeder",
+        "given": "M.D."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        1975
+      ]
+    },
+    "doi": "10.1109/proc.1975.9939",
+    "normalized_locator": "https://web.mit.edu/Saltzer/www/publications/protection/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 2,
+    "published_locator": "https://doi.org/10.1109/SP.1987.10001",
+    "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+    "title": "A Comparison of Commercial and Military Computer Security Policies",
+    "authors": [
+      {
+        "family": "Clark",
+        "given": "David D."
+      },
+      {
+        "family": "Wilson",
+        "given": "David R."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        1987,
+        4
+      ]
+    },
+    "doi": "10.1109/sp.1987.10001",
+    "normalized_locator": "https://doi.org/10.1109/sp.1987.10001",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 3,
+    "published_locator": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+    "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+    "title": "eXtensible Access Control Markup Language (XACML) Version 3.0",
+    "authors": [
+      {
+        "literal": "OASIS"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2013,
+        1,
+        22
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 4,
+    "published_locator": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+    "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+    "title": "Zanzibar: Google’s Consistent, Global Authorization System",
+    "authors": [
+      {
+        "family": "Pang",
+        "given": "Ruoming"
+      },
+      {
+        "family": "Caceres",
+        "given": "Ramon"
+      },
+      {
+        "family": "Burrows",
+        "given": "Mike"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhifeng"
+      },
+      {
+        "family": "Dave",
+        "given": "Pratik"
+      },
+      {
+        "family": "Germer",
+        "given": "Nathan"
+      },
+      {
+        "family": "Golynski",
+        "given": "Alexander"
+      },
+      {
+        "family": "Graney",
+        "given": "Kevin"
+      },
+      {
+        "family": "Kang",
+        "given": "Nina"
+      },
+      {
+        "family": "Kissner",
+        "given": "Lea"
+      },
+      {
+        "family": "Korn",
+        "given": "Jeffrey L."
+      },
+      {
+        "family": "Parmar",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Richards",
+        "given": "Christina D."
+      },
+      {
+        "family": "Wang",
+        "given": "Mengzhi"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2019
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 5,
+    "published_locator": "https://www.openpolicyagent.org/docs/latest/",
+    "authority_url": "https://www.openpolicyagent.org/docs",
+    "title": "Open Policy Agent documentation",
+    "authors": [
+      {
+        "literal": "Open Policy Agent"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://www.openpolicyagent.org/docs/latest/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 6,
+    "published_locator": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+    "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+    "title": "Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud",
+    "authors": [
+      {
+        "family": "Birgisson",
+        "given": "Arnar"
+      },
+      {
+        "family": "Politz",
+        "given": "Joe Gibbs"
+      },
+      {
+        "family": "Erlingsson",
+        "given": "Úlfar"
+      },
+      {
+        "family": "Taly",
+        "given": "Ankur"
+      },
+      {
+        "family": "Vrable",
+        "given": "Michael"
+      },
+      {
+        "family": "Lentczner",
+        "given": "Mark"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2014
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 7,
+    "published_locator": "https://www.w3.org/TR/prov-o/",
+    "authority_url": "https://www.w3.org/TR/prov-o/",
+    "title": "PROV-O: The PROV Ontology",
+    "authors": [
+      {
+        "literal": "W3C"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2013,
+        4,
+        30
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.w3.org/TR/prov-o/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 8,
+    "published_locator": "https://www.rfc-editor.org/rfc/rfc9334",
+    "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+    "title": "Remote ATtestation procedureS (RATS) Architecture",
+    "authors": [
+      {
+        "family": "Birkholz",
+        "given": "H."
+      },
+      {
+        "family": "Thaler",
+        "given": "D."
+      },
+      {
+        "family": "Richardson",
+        "given": "M."
+      },
+      {
+        "family": "Smith",
+        "given": "N."
+      },
+      {
+        "family": "Pan",
+        "given": "W."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2023,
+        1,
+        13
+      ]
+    },
+    "doi": "10.17487/rfc9334",
+    "normalized_locator": "https://www.rfc-editor.org/rfc/rfc9334",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 9,
+    "published_locator": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+    "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+    "title": "in-toto: Providing farm-to-table guarantees for bits and bytes",
+    "authors": [
+      {
+        "family": "Torres-Arias",
+        "given": "Santiago"
+      },
+      {
+        "family": "Afzali",
+        "given": "Hammad"
+      },
+      {
+        "family": "Kuppusamy",
+        "given": "Trishank Karthik"
+      },
+      {
+        "family": "Curtmola",
+        "given": "Reza"
+      },
+      {
+        "family": "Cappos",
+        "given": "Justin"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2019
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 10,
+    "published_locator": "https://in-toto.io/docs/",
+    "authority_url": "https://in-toto.io/docs/",
+    "title": "in-toto project documentation",
+    "authors": [
+      {
+        "literal": "in-toto"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://in-toto.io/docs/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 11,
+    "published_locator": "https://slsa.dev/spec/v1.2/",
+    "authority_url": "https://slsa.dev/spec/v1.2/",
+    "title": "SLSA specification, version 1.2",
+    "authors": [
+      {
+        "literal": "SLSA"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://slsa.dev/spec/v1.2/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 12,
+    "published_locator": "https://docs.sigstore.dev/",
+    "authority_url": "https://docs.sigstore.dev/",
+    "title": "Sigstore documentation",
+    "authors": [
+      {
+        "literal": "Sigstore"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://docs.sigstore.dev/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 13,
+    "published_locator": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "title": "Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities",
+    "authors": [
+      {
+        "family": "Souppaya",
+        "given": "Murugiah"
+      },
+      {
+        "family": "Scarfone",
+        "given": "Karen"
+      },
+      {
+        "family": "Dodson",
+        "given": "Donna"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2022,
+        2,
+        3
+      ]
+    },
+    "doi": "10.6028/nist.sp.800-218",
+    "normalized_locator": "https://csrc.nist.gov/pubs/sp/800/218/final",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 14,
+    "published_locator": "https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+    "authority_url": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+    "title": "About protected branches",
+    "authors": [
+      {
+        "literal": "GitHub"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 15,
+    "published_locator": "https://doi.org/10.1145/353323.353382",
+    "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+    "title": "Enforceable security policies",
+    "authors": [
+      {
+        "family": "Schneider",
+        "given": "Fred B."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2000,
+        2
+      ]
+    },
+    "doi": "10.1145/353323.353382",
+    "normalized_locator": "https://doi.org/10.1145/353323.353382",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 16,
+    "published_locator": "https://doi.org/10.1016/0005-1098(83)90046-8",
+    "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+    "title": "Ironies of automation",
+    "authors": [
+      {
+        "family": "Bainbridge",
+        "given": "Lisanne"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        1983,
+        11
+      ]
+    },
+    "doi": "10.1016/0005-1098(83)90046-8",
+    "normalized_locator": "https://doi.org/10.1016/0005-1098(83)90046-8",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 17,
+    "published_locator": "https://doi.org/10.1109/3468.844354",
+    "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+    "title": "A model for types and levels of human interaction with automation",
+    "authors": [
+      {
+        "family": "Parasuraman",
+        "given": "R."
+      },
+      {
+        "family": "Sheridan",
+        "given": "T.B."
+      },
+      {
+        "family": "Wickens",
+        "given": "C.D."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2000,
+        5
+      ]
+    },
+    "doi": "10.1109/3468.844354",
+    "normalized_locator": "https://doi.org/10.1109/3468.844354",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 18,
+    "published_locator": "https://doi.org/10.1518/hfes.46.1.50_30392",
+    "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+    "title": "Trust in Automation: Designing for Appropriate Reliance",
+    "authors": [
+      {
+        "family": "Lee",
+        "given": "J. D."
+      },
+      {
+        "family": "See",
+        "given": "K. A."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2004,
+        1,
+        1
+      ]
+    },
+    "doi": "10.1518/hfes.46.1.50_30392",
+    "normalized_locator": "https://doi.org/10.1518/hfes.46.1.50_30392",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 19,
+    "published_locator": "https://doi.org/10.1007/s10676-018-9459-8",
+    "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+    "title": "Meaningful Human Control over Autonomous Systems: A Philosophical Account",
+    "authors": [
+      {
+        "family": "Santoni de Sio",
+        "given": "Filippo"
+      },
+      {
+        "family": "van den Hoven",
+        "given": "Jeroen"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2018,
+        2,
+        28
+      ]
+    },
+    "doi": "10.3389/frobt.2018.00015",
+    "normalized_locator": "https://doi.org/10.3389/frobt.2018.00015",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": [
+      "f117-exception-01"
+    ]
+  },
+  {
+    "slot": 20,
+    "published_locator": "https://estsjournal.org/index.php/ests/article/view/260",
+    "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+    "title": "Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction",
+    "authors": [
+      {
+        "family": "Elish",
+        "given": "Madeleine Clare"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2019,
+        3,
+        23
+      ]
+    },
+    "doi": "10.17351/ests2019.260",
+    "normalized_locator": "https://estsjournal.org/index.php/ests/article/view/260",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 21,
+    "published_locator": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "authority_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "title": "AI Risk Management Framework",
+    "authors": [
+      {
+        "literal": "NIST"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 22,
+    "published_locator": "https://etheses.whiterose.ac.uk/2504/",
+    "authority_url": "Published reference; live wrong-locator verification; official institutional bibliography corroboration only",
+    "title": "Arguing Safety: A Systematic Approach to Managing Safety Cases",
+    "authors": [
+      {
+        "family": "Kelly",
+        "given": "T. P."
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": null,
+    "retrieval_state": "original locator wrong; historical route no longer serves thesis",
+    "metadata_gaps": [
+      "Publication date not established; no date invented.",
+      "Current work locator unresolved; incorrect published locator retained only as original evidence."
+    ],
+    "exceptions": [
+      "f117-exception-02"
+    ]
+  },
+  {
+    "slot": 23,
+    "published_locator": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+    "authority_url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+    "title": "AI Agent Security Cheat Sheet",
+    "authors": [
+      {
+        "literal": "OWASP"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 24,
+    "published_locator": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "authors": [
+      {
+        "literal": "NIST"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2024,
+        7
+      ]
+    },
+    "doi": "10.6028/nist.ai.600-1",
+    "normalized_locator": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 25,
+    "published_locator": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+    "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+    "title": "Practices for Governing Agentic AI Systems",
+    "authors": [
+      {
+        "family": "Shavit",
+        "given": "Yonadav"
+      },
+      {
+        "family": "Agarwal",
+        "given": "Sandhini"
+      },
+      {
+        "family": "Brundage",
+        "given": "Miles"
+      },
+      {
+        "family": "Adler",
+        "given": "Steven"
+      },
+      {
+        "family": "O’Keefe",
+        "given": "Cullen"
+      },
+      {
+        "family": "Campbell",
+        "given": "Rosie"
+      },
+      {
+        "family": "Lee",
+        "given": "Teddy"
+      },
+      {
+        "family": "Mishkin",
+        "given": "Pamela"
+      },
+      {
+        "family": "Eloundou",
+        "given": "Tyna"
+      },
+      {
+        "family": "Hickey",
+        "given": "Alan"
+      },
+      {
+        "family": "Slama",
+        "given": "Katarina"
+      },
+      {
+        "family": "Ahmad",
+        "given": "Lama"
+      },
+      {
+        "family": "McMillan",
+        "given": "Paul"
+      },
+      {
+        "family": "Beutel",
+        "given": "Alex"
+      },
+      {
+        "family": "Passos",
+        "given": "Alexandre"
+      },
+      {
+        "family": "Robinson",
+        "given": "David G."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2023,
+        12,
+        14
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": [
+      "f117-exception-03"
+    ]
+  },
+  {
+    "slot": 26,
+    "published_locator": "https://arxiv.org/abs/2508.03858",
+    "authority_url": "https://arxiv.org/abs/2508.03858v1",
+    "title": "MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Charles L."
+      },
+      {
+        "family": "Singhal",
+        "given": "Trisha"
+      },
+      {
+        "family": "Kelkar",
+        "given": "Ameya"
+      },
+      {
+        "family": "Tuo",
+        "given": "Jason"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2025,
+        8,
+        5
+      ]
+    },
+    "doi": "10.48550/arxiv.2508.03858",
+    "normalized_locator": "https://arxiv.org/abs/2508.03858v1",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": [
+      "f117-exception-04"
+    ]
+  },
+  {
+    "slot": 27,
+    "published_locator": "https://arxiv.org/abs/2602.20196",
+    "authority_url": "https://arxiv.org/abs/2602.20196",
+    "title": "OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Genliang"
+      },
+      {
+        "family": "Wang",
+        "given": "Chu"
+      },
+      {
+        "family": "Wang",
+        "given": "Ziyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Zhida"
+      },
+      {
+        "family": "Li",
+        "given": "Qiang"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2026,
+        2,
+        22
+      ]
+    },
+    "doi": "10.48550/arxiv.2602.20196",
+    "normalized_locator": "https://arxiv.org/abs/2602.20196",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": [
+      "f117-exception-05"
+    ]
+  },
+  {
+    "slot": 28,
+    "published_locator": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "title": "Model AI Governance Framework for Agentic AI",
+    "authors": [
+      {
+        "literal": "IMDA"
+      },
+      {
+        "literal": "AI Verify Foundation"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2026,
+        5,
+        20
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 29,
+    "published_locator": "https://arxiv.org/abs/2302.06590",
+    "authority_url": "https://arxiv.org/abs/2302.06590",
+    "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+    "authors": [
+      {
+        "family": "Peng",
+        "given": "Sida"
+      },
+      {
+        "family": "Kalliamvakou",
+        "given": "Eirini"
+      },
+      {
+        "family": "Cihon",
+        "given": "Peter"
+      },
+      {
+        "family": "Demirer",
+        "given": "Mert"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2023,
+        2,
+        13
+      ]
+    },
+    "doi": "10.48550/arxiv.2302.06590",
+    "normalized_locator": "https://arxiv.org/abs/2302.06590",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 30,
+    "published_locator": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+    "authors": [
+      {
+        "literal": "METR"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2025,
+        7,
+        10
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 31,
+    "published_locator": "https://doi.org/10.1518/001872095779064555",
+    "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+    "title": "The Out-of-the-Loop Performance Problem and Level of Control in Automation",
+    "authors": [
+      {
+        "family": "Endsley",
+        "given": "Mica R."
+      },
+      {
+        "family": "Kiris",
+        "given": "Esin O."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        1995,
+        6
+      ]
+    },
+    "doi": "10.1518/001872095779064555",
+    "normalized_locator": "https://doi.org/10.1518/001872095779064555",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 32,
+    "published_locator": "https://doi.org/10.1145/3449287",
+    "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+    "title": "To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making",
+    "authors": [
+      {
+        "family": "Buçinca",
+        "given": "Zana"
+      },
+      {
+        "family": "Malaya",
+        "given": "Maja Barbara"
+      },
+      {
+        "family": "Gajos",
+        "given": "Krzysztof Z."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2021,
+        4,
+        13
+      ]
+    },
+    "doi": "10.1145/3449287",
+    "normalized_locator": "https://doi.org/10.1145/3449287",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": [
+      "f117-exception-06"
+    ]
+  },
+  {
+    "slot": 33,
+    "published_locator": "https://doi.org/10.1038/s41746-021-00385-9",
+    "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+    "title": "Do as AI say: susceptibility in deployment of clinical decision-aids",
+    "authors": [
+      {
+        "family": "Gaube",
+        "given": "Susanne"
+      },
+      {
+        "family": "Suresh",
+        "given": "Harini"
+      },
+      {
+        "family": "Raue",
+        "given": "Martina"
+      },
+      {
+        "family": "Merritt",
+        "given": "Alexander"
+      },
+      {
+        "family": "Berkowitz",
+        "given": "Seth J."
+      },
+      {
+        "family": "Lermer",
+        "given": "Eva"
+      },
+      {
+        "family": "Coughlin",
+        "given": "Joseph F."
+      },
+      {
+        "family": "Guttag",
+        "given": "John V."
+      },
+      {
+        "family": "Colak",
+        "given": "Errol"
+      },
+      {
+        "family": "Ghassemi",
+        "given": "Marzyeh"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2021,
+        2,
+        19
+      ]
+    },
+    "doi": "10.1038/s41746-021-00385-9",
+    "normalized_locator": "https://doi.org/10.1038/s41746-021-00385-9",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 34,
+    "published_locator": "https://doi.org/10.1142/S0218126698000043",
+    "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+    "title": "THE APPLICATION OF PETRI NETS TO WORKFLOW MANAGEMENT",
+    "authors": [
+      {
+        "family": "VAN DER AALST",
+        "given": "W. M. P."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        1998,
+        2
+      ]
+    },
+    "doi": "10.1142/s0218126698000043",
+    "normalized_locator": "https://doi.org/10.1142/s0218126698000043",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 35,
+    "published_locator": "https://doi.org/10.1145/984334.984339",
+    "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+    "title": "The UCONABC Usage Control Model",
+    "authors": [
+      {
+        "family": "Park",
+        "given": "Jaehong"
+      },
+      {
+        "family": "Sandhu",
+        "given": "Ravi"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2004,
+        2
+      ]
+    },
+    "doi": "10.1145/984334.984339",
+    "normalized_locator": "https://doi.org/10.1145/984334.984339",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 36,
+    "published_locator": "https://www.rfc-editor.org/rfc/rfc8705.html",
+    "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+    "title": "OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens",
+    "authors": [
+      {
+        "family": "Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Bradley",
+        "given": "J."
+      },
+      {
+        "family": "Sakimura",
+        "given": "N."
+      },
+      {
+        "family": "Lodderstedt",
+        "given": "T."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2020,
+        2
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.rfc-editor.org/rfc/rfc8705.html",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 37,
+    "published_locator": "https://www.rfc-editor.org/rfc/rfc9449.html",
+    "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+    "title": "OAuth 2.0 Demonstrating Proof of Possession (DPoP)",
+    "authors": [
+      {
+        "family": "Fett",
+        "given": "D."
+      },
+      {
+        "family": "Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Bradley",
+        "given": "J."
+      },
+      {
+        "family": "Lodderstedt",
+        "given": "T."
+      },
+      {
+        "family": "Jones",
+        "given": "M."
+      },
+      {
+        "family": "Waite",
+        "given": "D."
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2023,
+        9
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.rfc-editor.org/rfc/rfc9449.html",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 38,
+    "published_locator": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+    "authority_url": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+    "title": "Binary Authorization for Borg",
+    "authors": [
+      {
+        "literal": "Google"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 39,
+    "published_locator": "https://docs.cloud.google.com/docs/security/production-services-protection",
+    "authority_url": "https://docs.cloud.google.com/docs/security/production-services-protection",
+    "title": "How Google Protects Its Production Services",
+    "authors": [
+      {
+        "literal": "Google"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://docs.cloud.google.com/docs/security/production-services-protection",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 40,
+    "published_locator": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+    "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+    "title": "In the Matter of Knight Capital Americas LLC",
+    "authors": [
+      {
+        "literal": "U.S. Securities and Exchange Commission"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2013,
+        10,
+        16
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 41,
+    "published_locator": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+    "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+    "title": "External Technical Root Cause Analysis—Channel File 291",
+    "authors": [
+      {
+        "literal": "CrowdStrike"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2024,
+        8,
+        6
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 42,
+    "published_locator": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+    "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+    "title": "Emergency Directive 21-01: Mitigate SolarWinds Orion Code Compromise",
+    "authors": [
+      {
+        "literal": "Cybersecurity and Infrastructure Security Agency"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2020,
+        12,
+        13
+      ]
+    },
+    "doi": null,
+    "normalized_locator": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  },
+  {
+    "slot": 43,
+    "published_locator": "https://www.nist.gov/privacy-framework",
+    "authority_url": "https://www.nist.gov/privacy-framework",
+    "title": "Privacy Framework",
+    "authors": [
+      {
+        "literal": "NIST"
+      }
+    ],
+    "issued": null,
+    "doi": null,
+    "normalized_locator": "https://www.nist.gov/privacy-framework",
+    "retrieval_state": "verified",
+    "metadata_gaps": [
+      "Publication date not established; no date invented."
+    ],
+    "exceptions": []
+  },
+  {
+    "slot": 44,
+    "published_locator": "https://doi.org/10.1287/orsc.1100.0621",
+    "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+    "title": "Organizational Learning: From Experience to Knowledge",
+    "authors": [
+      {
+        "family": "Argote",
+        "given": "Linda"
+      },
+      {
+        "family": "Miron-Spektor",
+        "given": "Ella"
+      }
+    ],
+    "issued": {
+      "date_parts": [
+        2011,
+        10
+      ]
+    },
+    "doi": "10.1287/orsc.1100.0621",
+    "normalized_locator": "https://doi.org/10.1287/orsc.1100.0621",
+    "retrieval_state": "verified",
+    "metadata_gaps": [],
+    "exceptions": []
+  }
+]
