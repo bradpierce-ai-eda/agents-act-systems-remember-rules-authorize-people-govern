@@ -1,0 +1,668 @@
+TY  - JOUR
+ID  - f117_ref_001
+AU  - Saltzer, J.H.
+AU  - Schroeder, M.D.
+TI  - The Protection of Information in Computer Systems
+T2  - Proceedings of the IEEE
+VL  - 63
+IS  - 9
+SP  - 1278-1308
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+LA  - en
+DO  - 10.1109/proc.1975.9939
+UR  - https://web.mit.edu/Saltzer/www/publications/protection/
+PY  - 1975
+DA  - 1975
+N1  - Published reference slots: ref-001
+ER  -
+
+TY  - CPAPER
+ID  - f117_ref_002
+AU  - Clark, David D.
+AU  - Wilson, David R.
+TI  - A Comparison of Commercial and Military Computer Security Policies
+T2  - 1987 IEEE Symposium on Security and Privacy
+SP  - 184-184
+PB  - IEEE
+LA  - en
+DO  - 10.1109/sp.1987.10001
+UR  - https://doi.org/10.1109/sp.1987.10001
+PY  - 1987
+DA  - 1987/4
+N1  - Published reference slots: ref-002
+ER  -
+
+TY  - STAND
+ID  - f117_ref_003
+AU  - OASIS,
+TI  - eXtensible Access Control Markup Language (XACML) Version 3.0
+PB  - OASIS
+LA  - en
+UR  - https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html
+PY  - 2013
+DA  - 2013/1/22
+N1  - XACML Version 3.0; OASIS Standard.
+N1  - Published reference slots: ref-003
+ER  -
+
+TY  - CPAPER
+ID  - f117_ref_004
+AU  - Pang, Ruoming
+AU  - Caceres, Ramon
+AU  - Burrows, Mike
+AU  - Chen, Zhifeng
+AU  - Dave, Pratik
+AU  - Germer, Nathan
+AU  - Golynski, Alexander
+AU  - Graney, Kevin
+AU  - Kang, Nina
+AU  - Kissner, Lea
+AU  - Korn, Jeffrey L.
+AU  - Parmar, Abhishek
+AU  - Richards, Christina D.
+AU  - Wang, Mengzhi
+TI  - Zanzibar: Google’s Consistent, Global Authorization System
+T2  - 2019 USENIX Annual Technical Conference
+PB  - USENIX Association
+LA  - en
+UR  - https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
+PY  - 2019
+DA  - 2019
+N1  - Published reference slots: ref-004
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_005
+AU  - Open Policy Agent,
+TI  - Open Policy Agent documentation
+LA  - en
+UR  - https://www.openpolicyagent.org/docs/latest/
+N1  - Published reference slots: ref-005
+ER  -
+
+TY  - CPAPER
+ID  - f117_ref_006
+AU  - Birgisson, Arnar
+AU  - Politz, Joe Gibbs
+AU  - Erlingsson, Úlfar
+AU  - Taly, Ankur
+AU  - Vrable, Michael
+AU  - Lentczner, Mark
+TI  - Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud
+T2  - Network and Distributed System Security Symposium 2014
+PB  - Internet Society
+LA  - en
+UR  - https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/
+PY  - 2014
+DA  - 2014
+N1  - Published reference slots: ref-006
+ER  -
+
+TY  - STAND
+ID  - f117_ref_007
+AU  - W3C,
+TI  - PROV-O: The PROV Ontology
+PB  - W3C
+LA  - en
+UR  - https://www.w3.org/TR/prov-o/
+PY  - 2013
+DA  - 2013/4/30
+N1  - W3C Recommendation; editors Timothy Lebo, Satya Sahoo, Deborah McGuinness are named in the authority.
+N1  - Published reference slots: ref-007
+ER  -
+
+TY  - STAND
+ID  - f117_ref_008
+AU  - Birkholz, H.
+AU  - Thaler, D.
+AU  - Richardson, M.
+AU  - Smith, N.
+AU  - Pan, W.
+TI  - Remote ATtestation procedureS (RATS) Architecture
+PB  - RFC Editor
+LA  - en
+DO  - 10.17487/rfc9334
+UR  - https://www.rfc-editor.org/rfc/rfc9334
+PY  - 2023
+DA  - 2023/1/13
+N1  - Published reference slots: ref-008
+ER  -
+
+TY  - CPAPER
+ID  - f117_ref_009
+AU  - Torres-Arias, Santiago
+AU  - Afzali, Hammad
+AU  - Kuppusamy, Trishank Karthik
+AU  - Curtmola, Reza
+AU  - Cappos, Justin
+TI  - in-toto: Providing farm-to-table guarantees for bits and bytes
+T2  - 28th USENIX Security Symposium (USENIX Security 19)
+SP  - 1393-1410
+PB  - USENIX Association
+LA  - en
+UR  - https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias
+PY  - 2019
+DA  - 2019
+N1  - Published reference slots: ref-009
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_010
+AU  - in-toto,
+TI  - in-toto project documentation
+LA  - en
+UR  - https://in-toto.io/docs/
+N1  - Published reference slots: ref-010
+ER  -
+
+TY  - STAND
+ID  - f117_ref_011
+AU  - SLSA,
+TI  - SLSA specification, version 1.2
+PB  - SLSA
+LA  - en
+UR  - https://slsa.dev/spec/v1.2/
+N1  - Approved specification version 1.2; no publication date installed from the undated landing page.
+N1  - Published reference slots: ref-011
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_012
+AU  - Sigstore,
+TI  - Sigstore documentation
+LA  - en
+UR  - https://docs.sigstore.dev/
+N1  - Published reference slots: ref-012
+ER  -
+
+TY  - RPRT
+ID  - f117_ref_013
+AU  - Souppaya, Murugiah
+AU  - Scarfone, Karen
+AU  - Dodson, Donna
+TI  - Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities
+LA  - en
+DO  - 10.6028/nist.sp.800-218
+UR  - https://csrc.nist.gov/pubs/sp/800/218/final
+PY  - 2022
+DA  - 2022/2/3
+N1  - Published reference slots: ref-013
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_014
+AU  - GitHub,
+TI  - About protected branches
+LA  - en
+UR  - https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches
+N1  - Published reference slots: ref-014
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_015
+AU  - Schneider, Fred B.
+TI  - Enforceable security policies
+T2  - ACM Transactions on Information and System Security
+VL  - 3
+IS  - 1
+SP  - 30-50
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/353323.353382
+UR  - https://doi.org/10.1145/353323.353382
+PY  - 2000
+DA  - 2000/2
+N1  - Published reference slots: ref-015
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_016
+AU  - Bainbridge, Lisanne
+TI  - Ironies of automation
+T2  - Automatica
+VL  - 19
+IS  - 6
+SP  - 775-779
+PB  - Elsevier BV
+LA  - en
+DO  - 10.1016/0005-1098(83)90046-8
+UR  - https://doi.org/10.1016/0005-1098(83)90046-8
+PY  - 1983
+DA  - 1983/11
+N1  - Published reference slots: ref-016
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_017
+AU  - Parasuraman, R.
+AU  - Sheridan, T.B.
+AU  - Wickens, C.D.
+TI  - A model for types and levels of human interaction with automation
+T2  - IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans
+VL  - 30
+IS  - 3
+SP  - 286-297
+PB  - Institute of Electrical and Electronics Engineers (IEEE)
+LA  - en
+DO  - 10.1109/3468.844354
+UR  - https://doi.org/10.1109/3468.844354
+PY  - 2000
+DA  - 2000/5
+N1  - Published reference slots: ref-017
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_018
+AU  - Lee, J. D.
+AU  - See, K. A.
+TI  - Trust in Automation: Designing for Appropriate Reliance
+T2  - Human Factors: The Journal of the Human Factors and Ergonomics Society
+VL  - 46
+IS  - 1
+SP  - 50-80
+PB  - Oxford University Press (OUP)
+LA  - en
+DO  - 10.1518/hfes.46.1.50_30392
+UR  - https://doi.org/10.1518/hfes.46.1.50_30392
+PY  - 2004
+DA  - 2004/1/1
+N1  - Published reference slots: ref-018
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_019
+AU  - Santoni de Sio, Filippo
+AU  - van den Hoven, Jeroen
+TI  - Meaningful Human Control over Autonomous Systems: A Philosophical Account
+T2  - Frontiers in Robotics and AI
+VL  - 5
+PB  - Frontiers Media SA
+LA  - en
+DO  - 10.3389/frobt.2018.00015
+UR  - https://doi.org/10.3389/frobt.2018.00015
+PY  - 2018
+DA  - 2018/2/28
+N1  - Metadata adjudication: Published DOI returns no Crossref record; title and both authors match the Frontiers article at 10.3389/frobt.2018.00015. The full normalized title includes its subtitle.
+N1  - Published reference slots: ref-019
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_020
+AU  - Elish, Madeleine Clare
+TI  - Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction
+T2  - Engaging Science, Technology, and Society
+VL  - 5
+SP  - 40-60
+LA  - en
+DO  - 10.17351/ests2019.260
+UR  - https://estsjournal.org/index.php/ests/article/view/260
+PY  - 2019
+DA  - 2019/3/23
+N1  - Published reference slots: ref-020
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_021
+AU  - NIST,
+TI  - AI Risk Management Framework
+LA  - en
+UR  - https://www.nist.gov/itl/ai-risk-management-framework
+N1  - General NIST framework portal; the short published reference does not identify a specific report edition, so no report date/version is inferred.
+N1  - Published reference slots: ref-021
+ER  -
+
+TY  - GEN
+ID  - f117_ref_022
+AU  - Kelly, T. P.
+TI  - Arguing Safety: A Systematic Approach to Managing Safety Cases
+LA  - en
+N1  - Dissertation identified in the published reference and institutional literature. Published White Rose locator points to an unrelated peacebuilding thesis; a historical York PDF locator now redirects to a generic homepage. Publication year and a currently serving thesis locator remain unresolved. Metadata adjudication: Live White Rose page is an unrelated peacebuilding thesis. Historical York PDF route no longer serves the dissertation. A false replacement locator/date is not installed.
+N1  - Published reference slots: ref-022
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_023
+AU  - OWASP,
+TI  - AI Agent Security Cheat Sheet
+LA  - en
+UR  - https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html
+N1  - Published reference slots: ref-023
+ER  -
+
+TY  - RPRT
+ID  - f117_ref_024
+AU  - NIST,
+TI  - Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile
+PB  - National Institute of Standards and Technology
+LA  - en
+DO  - 10.6028/nist.ai.600-1
+UR  - https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
+PY  - 2024
+DA  - 2024/7
+N1  - NIST AI 600-1; publication identity/date from the official PDF cover.
+N1  - Published reference slots: ref-024
+ER  -
+
+TY  - RPRT
+ID  - f117_ref_025
+AU  - Shavit, Yonadav
+AU  - Agarwal, Sandhini
+AU  - Brundage, Miles
+AU  - Adler, Steven
+AU  - O’Keefe, Cullen
+AU  - Campbell, Rosie
+AU  - Lee, Teddy
+AU  - Mishkin, Pamela
+AU  - Eloundou, Tyna
+AU  - Hickey, Alan
+AU  - Slama, Katarina
+AU  - Ahmad, Lama
+AU  - McMillan, Paul
+AU  - Beutel, Alex
+AU  - Passos, Alexandre
+AU  - Robinson, David G.
+TI  - Practices for Governing Agentic AI Systems
+PB  - OpenAI
+LA  - en
+UR  - https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf
+PY  - 2023
+DA  - 2023/12/14
+L2  - https://openai.com/index/practices-for-governing-agentic-ai-systems/
+N1  - Metadata adjudication: Current official web wrapper lists Andrea Vallone in the place occupied by Alex Beutel in the linked paper PDF. The reusable record follows the paper PDF, with the wrapper used only for its publication date.
+N1  - Published reference slots: ref-025
+ER  -
+
+TY  - UNPB
+ID  - f117_ref_026
+AU  - Wang, Charles L.
+AU  - Singhal, Trisha
+AU  - Kelkar, Ameya
+AU  - Tuo, Jason
+TI  - MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems
+PB  - arXiv
+LA  - en
+DO  - 10.48550/arxiv.2508.03858
+UR  - https://arxiv.org/abs/2508.03858v1
+PY  - 2025
+DA  - 2025/8/5
+L2  - https://arxiv.org/abs/2508.03858
+N1  - Version 1 title is the work cited by the published paper; later arXiv versions use MI9: An Integrated Runtime Governance Framework for Agentic AI. Metadata adjudication: The v1 responsible repository identifies Charles L. Wang, not an author with given initial S. The canonical reference remains untouched. Preprint or manuscript; no completed peer-reviewed venue inferred.
+N1  - Published reference slots: ref-026
+ER  -
+
+TY  - UNPB
+ID  - f117_ref_027
+AU  - Zhu, Genliang
+AU  - Wang, Chu
+AU  - Wang, Ziyuan
+AU  - Li, Zhida
+AU  - Li, Qiang
+TI  - OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access
+PB  - arXiv
+LA  - en
+DO  - 10.48550/arxiv.2602.20196
+UR  - https://arxiv.org/abs/2602.20196
+PY  - 2026
+DA  - 2026/2/22
+N1  - Metadata adjudication: Responsible arXiv record identifies Genliang Zhu. The published initial Y. is preserved in the source slot, not used to overwrite verified author metadata. Preprint or manuscript; no completed peer-reviewed venue inferred.
+N1  - Published reference slots: ref-027
+ER  -
+
+TY  - RPRT
+ID  - f117_ref_028
+AU  - IMDA,
+AU  - AI Verify Foundation,
+TI  - Model AI Governance Framework for Agentic AI
+PB  - Infocomm Media Development Authority
+LA  - en
+UR  - https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf
+PY  - 2026
+DA  - 2026/5/20
+N1  - Version 1.5; official PDF says published 20 May 2026 and updated 5 June 2026.
+N1  - Published reference slots: ref-028
+ER  -
+
+TY  - UNPB
+ID  - f117_ref_029
+AU  - Peng, Sida
+AU  - Kalliamvakou, Eirini
+AU  - Cihon, Peter
+AU  - Demirer, Mert
+TI  - The Impact of AI on Developer Productivity: Evidence from GitHub Copilot
+PB  - arXiv
+LA  - en
+DO  - 10.48550/arxiv.2302.06590
+UR  - https://arxiv.org/abs/2302.06590
+PY  - 2023
+DA  - 2023/2/13
+N1  - Preprint or manuscript; no completed peer-reviewed venue inferred.
+N1  - Published reference slots: ref-029
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_030
+AU  - METR,
+TI  - Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+T2  - METR Blog
+LA  - en
+UR  - https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+PY  - 2025
+DA  - 2025/7/10
+N1  - Published reference slots: ref-030
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_031
+AU  - Endsley, Mica R.
+AU  - Kiris, Esin O.
+TI  - The Out-of-the-Loop Performance Problem and Level of Control in Automation
+T2  - Human Factors: The Journal of the Human Factors and Ergonomics Society
+VL  - 37
+IS  - 2
+SP  - 381-394
+PB  - SAGE Publications
+LA  - en
+DO  - 10.1518/001872095779064555
+UR  - https://doi.org/10.1518/001872095779064555
+PY  - 1995
+DA  - 1995/6
+N1  - Published reference slots: ref-031
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_032
+AU  - Buçinca, Zana
+AU  - Malaya, Maja Barbara
+AU  - Gajos, Krzysztof Z.
+TI  - To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making
+T2  - Proceedings of the ACM on Human-Computer Interaction
+VL  - 5
+IS  - CSCW1
+SP  - 1-21
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/3449287
+UR  - https://doi.org/10.1145/3449287
+PY  - 2021
+DA  - 2021/4/13
+N1  - Metadata adjudication: Responsible DOI registry identifies Proceedings of the ACM on Human-Computer Interaction, volume 5, CSCW1. The normalized record follows the journal metadata; source slot retains its published venue wording.
+N1  - Published reference slots: ref-032
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_033
+AU  - Gaube, Susanne
+AU  - Suresh, Harini
+AU  - Raue, Martina
+AU  - Merritt, Alexander
+AU  - Berkowitz, Seth J.
+AU  - Lermer, Eva
+AU  - Coughlin, Joseph F.
+AU  - Guttag, John V.
+AU  - Colak, Errol
+AU  - Ghassemi, Marzyeh
+TI  - Do as AI say: susceptibility in deployment of clinical decision-aids
+T2  - npj Digital Medicine
+VL  - 4
+IS  - 1
+PB  - Springer Science and Business Media LLC
+LA  - en
+DO  - 10.1038/s41746-021-00385-9
+UR  - https://doi.org/10.1038/s41746-021-00385-9
+PY  - 2021
+DA  - 2021/2/19
+N1  - Published reference slots: ref-033
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_034
+AU  - VAN DER AALST, W. M. P.
+TI  - THE APPLICATION OF PETRI NETS TO WORKFLOW MANAGEMENT
+T2  - Journal of Circuits, Systems and Computers
+VL  - 08
+IS  - 01
+SP  - 21-66
+PB  - World Scientific Pub Co Pte Ltd
+LA  - en
+DO  - 10.1142/s0218126698000043
+UR  - https://doi.org/10.1142/s0218126698000043
+PY  - 1998
+DA  - 1998/2
+N1  - Published reference slots: ref-034
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_035
+AU  - Park, Jaehong
+AU  - Sandhu, Ravi
+TI  - The UCONABC Usage Control Model
+T2  - ACM Transactions on Information and System Security
+VL  - 7
+IS  - 1
+SP  - 128-174
+PB  - Association for Computing Machinery (ACM)
+LA  - en
+DO  - 10.1145/984334.984339
+UR  - https://doi.org/10.1145/984334.984339
+PY  - 2004
+DA  - 2004/2
+N1  - Published reference slots: ref-035
+ER  -
+
+TY  - STAND
+ID  - f117_ref_036
+AU  - Campbell, B.
+AU  - Bradley, J.
+AU  - Sakimura, N.
+AU  - Lodderstedt, T.
+TI  - OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens
+PB  - RFC Editor
+LA  - en
+UR  - https://www.rfc-editor.org/rfc/rfc8705.html
+PY  - 2020
+DA  - 2020/2
+N1  - Published reference slots: ref-036
+ER  -
+
+TY  - STAND
+ID  - f117_ref_037
+AU  - Fett, D.
+AU  - Campbell, B.
+AU  - Bradley, J.
+AU  - Lodderstedt, T.
+AU  - Jones, M.
+AU  - Waite, D.
+TI  - OAuth 2.0 Demonstrating Proof of Possession (DPoP)
+PB  - RFC Editor
+LA  - en
+UR  - https://www.rfc-editor.org/rfc/rfc9449.html
+PY  - 2023
+DA  - 2023/9
+N1  - Published reference slots: ref-037
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_038
+AU  - Google,
+TI  - Binary Authorization for Borg
+LA  - en
+UR  - https://docs.cloud.google.com/docs/security/binary-authorization-for-borg
+N1  - Official page verified through live public retrieval after direct client received Site Unavailable. Content update month September 2026 is not treated as the initial publication date.
+N1  - Published reference slots: ref-038
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_039
+AU  - Google,
+TI  - How Google Protects Its Production Services
+LA  - en
+UR  - https://docs.cloud.google.com/docs/security/production-services-protection
+N1  - Official page verified through live public retrieval. Content update month June 2026 and crawler publish-date metadata are not treated as the initial publication date.
+N1  - Published reference slots: ref-039
+ER  -
+
+TY  - RPRT
+ID  - f117_ref_040
+AU  - U.S. Securities and Exchange Commission,
+TI  - In the Matter of Knight Capital Americas LLC
+PB  - U.S. Securities and Exchange Commission
+LA  - en
+UR  - https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf
+PY  - 2013
+DA  - 2013/10/16
+N1  - Exchange Act Release No. 70694; administrative proceeding File No. 3-15570.
+N1  - Published reference slots: ref-040
+ER  -
+
+TY  - RPRT
+ID  - f117_ref_041
+AU  - CrowdStrike,
+TI  - External Technical Root Cause Analysis—Channel File 291
+PB  - CrowdStrike
+LA  - en
+UR  - https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf
+PY  - 2024
+DA  - 2024/8/6
+N1  - Published reference slots: ref-041
+ER  -
+
+TY  - STAND
+ID  - f117_ref_042
+AU  - Cybersecurity and Infrastructure Security Agency,
+TI  - Emergency Directive 21-01: Mitigate SolarWinds Orion Code Compromise
+PB  - Cybersecurity and Infrastructure Security Agency
+LA  - en
+UR  - https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed
+PY  - 2020
+DA  - 2020/12/13
+N1  - Directive issue date verified from the official CISA supplemental direction; current directive page includes later supplements and is marked Closed.
+N1  - Published reference slots: ref-042
+ER  -
+
+TY  - ELEC
+ID  - f117_ref_043
+AU  - NIST,
+TI  - Privacy Framework
+LA  - en
+UR  - https://www.nist.gov/privacy-framework
+N1  - General NIST framework portal; no specific report edition/date inferred from the short published citation.
+N1  - Published reference slots: ref-043
+ER  -
+
+TY  - JOUR
+ID  - f117_ref_044
+AU  - Argote, Linda
+AU  - Miron-Spektor, Ella
+TI  - Organizational Learning: From Experience to Knowledge
+T2  - Organization Science
+VL  - 22
+IS  - 5
+SP  - 1123-1137
+PB  - Institute for Operations Research and the Management Sciences (INFORMS)
+LA  - en
+DO  - 10.1287/orsc.1100.0621
+UR  - https://doi.org/10.1287/orsc.1100.0621
+PY  - 2011
+DA  - 2011/10
+N1  - Published reference slots: ref-044
+ER  -

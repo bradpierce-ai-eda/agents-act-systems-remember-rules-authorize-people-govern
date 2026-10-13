@@ -1,0 +1,4 @@
+lxml
+pypdf
+PyYAML
+bibtexparser

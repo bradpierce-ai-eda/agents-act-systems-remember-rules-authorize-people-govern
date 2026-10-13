@@ -1,0 +1,4232 @@
+{
+  "schema_version": 1,
+  "paper_doi": "10.5281/zenodo.22842198",
+  "reference_slots": [
+    {
+      "id": "ref-001",
+      "number": 1,
+      "raw_reference": "1. Saltzer, J. H., and Schroeder, M. D. “The Protection of Information in Computer Systems.”",
+      "published_markdown": "Saltzer, J. H., and Schroeder, M. D. [“The Protection of Information in Computer Systems.”](https://web.mit.edu/Saltzer/www/publications/protection/)",
+      "published_urls": [
+        "https://web.mit.edu/Saltzer/www/publications/protection/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_001"
+      ]
+    },
+    {
+      "id": "ref-002",
+      "number": 2,
+      "raw_reference": "2. Clark, D. D., and Wilson, D. R. “A Comparison of Commercial and Military Computer Security Policies.”",
+      "published_markdown": "Clark, D. D., and Wilson, D. R. [“A Comparison of Commercial and Military Computer Security Policies.”](https://doi.org/10.1109/SP.1987.10001)",
+      "published_urls": [
+        "https://doi.org/10.1109/SP.1987.10001"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_002"
+      ]
+    },
+    {
+      "id": "ref-003",
+      "number": 3,
+      "raw_reference": "3. OASIS. “eXtensible Access Control Markup Language (XACML) Version 3.0.”",
+      "published_markdown": "OASIS. [“eXtensible Access Control Markup Language (XACML) Version 3.0.”](https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html)",
+      "published_urls": [
+        "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_003"
+      ]
+    },
+    {
+      "id": "ref-004",
+      "number": 4,
+      "raw_reference": "4. Pang, R., and collaborators. “Zanzibar: Google’s Consistent, Global Authorization System.”",
+      "published_markdown": "Pang, R., and collaborators. [“Zanzibar: Google’s Consistent, Global Authorization System.”](https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/)",
+      "published_urls": [
+        "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_004"
+      ]
+    },
+    {
+      "id": "ref-005",
+      "number": 5,
+      "raw_reference": "5. Open Policy Agent. Documentation.",
+      "published_markdown": "Open Policy Agent. [Documentation.](https://www.openpolicyagent.org/docs/latest/)",
+      "published_urls": [
+        "https://www.openpolicyagent.org/docs/latest/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_005"
+      ]
+    },
+    {
+      "id": "ref-006",
+      "number": 6,
+      "raw_reference": "6. Birgisson, A., and collaborators. “Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud.”",
+      "published_markdown": "Birgisson, A., and collaborators. [“Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud.”](https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/)",
+      "published_urls": [
+        "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_006"
+      ]
+    },
+    {
+      "id": "ref-007",
+      "number": 7,
+      "raw_reference": "7. W3C. “PROV-O: The PROV Ontology.”",
+      "published_markdown": "W3C. [“PROV-O: The PROV Ontology.”](https://www.w3.org/TR/prov-o/)",
+      "published_urls": [
+        "https://www.w3.org/TR/prov-o/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_007"
+      ]
+    },
+    {
+      "id": "ref-008",
+      "number": 8,
+      "raw_reference": "8. IETF. RFC 9334: “Remote ATtestation procedureS (RATS) Architecture.”",
+      "published_markdown": "IETF. [RFC 9334: “Remote ATtestation procedureS (RATS) Architecture.”](https://www.rfc-editor.org/rfc/rfc9334)",
+      "published_urls": [
+        "https://www.rfc-editor.org/rfc/rfc9334"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_008"
+      ]
+    },
+    {
+      "id": "ref-009",
+      "number": 9,
+      "raw_reference": "9. Torres-Arias, S., and collaborators. “in-toto: Providing Farm-to-Table Guarantees for Bits and Bytes.”",
+      "published_markdown": "Torres-Arias, S., and collaborators. [“in-toto: Providing Farm-to-Table Guarantees for Bits and Bytes.”](https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias)",
+      "published_urls": [
+        "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_009"
+      ]
+    },
+    {
+      "id": "ref-010",
+      "number": 10,
+      "raw_reference": "10. in-toto. Project documentation.",
+      "published_markdown": "in-toto. [Project documentation.](https://in-toto.io/docs/)",
+      "published_urls": [
+        "https://in-toto.io/docs/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_010"
+      ]
+    },
+    {
+      "id": "ref-011",
+      "number": 11,
+      "raw_reference": "11. SLSA. Specification 1.2.",
+      "published_markdown": "SLSA. [Specification 1.2.](https://slsa.dev/spec/v1.2/)",
+      "published_urls": [
+        "https://slsa.dev/spec/v1.2/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_011"
+      ]
+    },
+    {
+      "id": "ref-012",
+      "number": 12,
+      "raw_reference": "12. Sigstore. Documentation.",
+      "published_markdown": "Sigstore. [Documentation.](https://docs.sigstore.dev/)",
+      "published_urls": [
+        "https://docs.sigstore.dev/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_012"
+      ]
+    },
+    {
+      "id": "ref-013",
+      "number": 13,
+      "raw_reference": "13. NIST. SP 800-218: Secure Software Development Framework.",
+      "published_markdown": "NIST. [SP 800-218: Secure Software Development Framework.](https://csrc.nist.gov/pubs/sp/800/218/final)",
+      "published_urls": [
+        "https://csrc.nist.gov/pubs/sp/800/218/final"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_013"
+      ]
+    },
+    {
+      "id": "ref-014",
+      "number": 14,
+      "raw_reference": "14. GitHub. “About protected branches.”",
+      "published_markdown": "GitHub. [“About protected branches.”](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)",
+      "published_urls": [
+        "https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_014"
+      ]
+    },
+    {
+      "id": "ref-015",
+      "number": 15,
+      "raw_reference": "15. Schneider, F. B. “Enforceable Security Policies.”",
+      "published_markdown": "Schneider, F. B. [“Enforceable Security Policies.”](https://doi.org/10.1145/353323.353382)",
+      "published_urls": [
+        "https://doi.org/10.1145/353323.353382"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_015"
+      ]
+    },
+    {
+      "id": "ref-016",
+      "number": 16,
+      "raw_reference": "16. Bainbridge, L. “Ironies of Automation.”",
+      "published_markdown": "Bainbridge, L. [“Ironies of Automation.”](https://doi.org/10.1016/0005-1098(83)90046-8)",
+      "published_urls": [
+        "https://doi.org/10.1016/0005-1098(83)90046-8"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_016"
+      ]
+    },
+    {
+      "id": "ref-017",
+      "number": 17,
+      "raw_reference": "17. Parasuraman, R., Sheridan, T. B., and Wickens, C. D. “A Model for Types and Levels of Human Interaction with Automation.”",
+      "published_markdown": "Parasuraman, R., Sheridan, T. B., and Wickens, C. D. [“A Model for Types and Levels of Human Interaction with Automation.”](https://doi.org/10.1109/3468.844354)",
+      "published_urls": [
+        "https://doi.org/10.1109/3468.844354"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_017"
+      ]
+    },
+    {
+      "id": "ref-018",
+      "number": 18,
+      "raw_reference": "18. Lee, J. D., and See, K. A. “Trust in Automation: Designing for Appropriate Reliance.”",
+      "published_markdown": "Lee, J. D., and See, K. A. [“Trust in Automation: Designing for Appropriate Reliance.”](https://doi.org/10.1518/hfes.46.1.50_30392)",
+      "published_urls": [
+        "https://doi.org/10.1518/hfes.46.1.50_30392"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_018"
+      ]
+    },
+    {
+      "id": "ref-019",
+      "number": 19,
+      "raw_reference": "19. Santoni de Sio, F., and van den Hoven, J. “Meaningful Human Control over Autonomous Systems.”",
+      "published_markdown": "Santoni de Sio, F., and van den Hoven, J. [“Meaningful Human Control over Autonomous Systems.”](https://doi.org/10.1007/s10676-018-9459-8)",
+      "published_urls": [
+        "https://doi.org/10.1007/s10676-018-9459-8"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_019"
+      ]
+    },
+    {
+      "id": "ref-020",
+      "number": 20,
+      "raw_reference": "20. Elish, M. C. “Moral Crumple Zones: Cautionary Tales in Human–Robot Interaction.”",
+      "published_markdown": "Elish, M. C. [“Moral Crumple Zones: Cautionary Tales in Human–Robot Interaction.”](https://estsjournal.org/index.php/ests/article/view/260)",
+      "published_urls": [
+        "https://estsjournal.org/index.php/ests/article/view/260"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_020"
+      ]
+    },
+    {
+      "id": "ref-021",
+      "number": 21,
+      "raw_reference": "21. NIST. AI Risk Management Framework.",
+      "published_markdown": "NIST. [AI Risk Management Framework.](https://www.nist.gov/itl/ai-risk-management-framework)",
+      "published_urls": [
+        "https://www.nist.gov/itl/ai-risk-management-framework"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_021"
+      ]
+    },
+    {
+      "id": "ref-022",
+      "number": 22,
+      "raw_reference": "22. Kelly, T. P. “Arguing Safety: A Systematic Approach to Managing Safety Cases.”",
+      "published_markdown": "Kelly, T. P. [“Arguing Safety: A Systematic Approach to Managing Safety Cases.”](https://etheses.whiterose.ac.uk/2504/)",
+      "published_urls": [
+        "https://etheses.whiterose.ac.uk/2504/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_022"
+      ]
+    },
+    {
+      "id": "ref-023",
+      "number": 23,
+      "raw_reference": "23. OWASP. AI Agent Security Cheat Sheet.",
+      "published_markdown": "OWASP. [AI Agent Security Cheat Sheet.](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html)",
+      "published_urls": [
+        "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_023"
+      ]
+    },
+    {
+      "id": "ref-024",
+      "number": 24,
+      "raw_reference": "24. NIST. AI 600-1: Artificial Intelligence Risk Management Framework—Generative AI Profile.",
+      "published_markdown": "NIST. [AI 600-1: Artificial Intelligence Risk Management Framework—Generative AI Profile.](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)",
+      "published_urls": [
+        "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_024"
+      ]
+    },
+    {
+      "id": "ref-025",
+      "number": 25,
+      "raw_reference": "25. Shavit, Y., and collaborators. “Practices for Governing Agentic AI Systems.”",
+      "published_markdown": "Shavit, Y., and collaborators. [“Practices for Governing Agentic AI Systems.”](https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf)",
+      "published_urls": [
+        "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_025"
+      ]
+    },
+    {
+      "id": "ref-026",
+      "number": 26,
+      "raw_reference": "26. Wang, S., and collaborators. “MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems.”",
+      "published_markdown": "Wang, S., and collaborators. [“MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems.”](https://arxiv.org/abs/2508.03858)",
+      "published_urls": [
+        "https://arxiv.org/abs/2508.03858"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_026"
+      ]
+    },
+    {
+      "id": "ref-027",
+      "number": 27,
+      "raw_reference": "27. Zhu, Y., and collaborators. “OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access.”",
+      "published_markdown": "Zhu, Y., and collaborators. [“OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access.”](https://arxiv.org/abs/2602.20196)",
+      "published_urls": [
+        "https://arxiv.org/abs/2602.20196"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_027"
+      ]
+    },
+    {
+      "id": "ref-028",
+      "number": 28,
+      "raw_reference": "28. IMDA and AI Verify Foundation. “Model AI Governance Framework for Agentic AI.”",
+      "published_markdown": "IMDA and AI Verify Foundation. [“Model AI Governance Framework for Agentic AI.”](https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf)",
+      "published_urls": [
+        "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_028"
+      ]
+    },
+    {
+      "id": "ref-029",
+      "number": 29,
+      "raw_reference": "29. Peng, S., and collaborators. “The Impact of AI on Developer Productivity: Evidence from GitHub Copilot.”",
+      "published_markdown": "Peng, S., and collaborators. [“The Impact of AI on Developer Productivity: Evidence from GitHub Copilot.”](https://arxiv.org/abs/2302.06590)",
+      "published_urls": [
+        "https://arxiv.org/abs/2302.06590"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_029"
+      ]
+    },
+    {
+      "id": "ref-030",
+      "number": 30,
+      "raw_reference": "30. METR. “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.”",
+      "published_markdown": "METR. [“Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.”](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)",
+      "published_urls": [
+        "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_030"
+      ]
+    },
+    {
+      "id": "ref-031",
+      "number": 31,
+      "raw_reference": "31. Endsley, M. R., and Kiris, E. O. “The Out-of-the-Loop Performance Problem and Level of Control in Automation.” Human Factors.",
+      "published_markdown": "Endsley, M. R., and Kiris, E. O. [“The Out-of-the-Loop Performance Problem and Level of Control in Automation.”](https://doi.org/10.1518/001872095779064555) Human Factors.",
+      "published_urls": [
+        "https://doi.org/10.1518/001872095779064555"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_031"
+      ]
+    },
+    {
+      "id": "ref-032",
+      "number": 32,
+      "raw_reference": "32. Buçinca, Z., Malaya, M. B., and Gajos, K. Z. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.",
+      "published_markdown": "Buçinca, Z., Malaya, M. B., and Gajos, K. Z. [“To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.”](https://doi.org/10.1145/3449287) Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.",
+      "published_urls": [
+        "https://doi.org/10.1145/3449287"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_032"
+      ]
+    },
+    {
+      "id": "ref-033",
+      "number": 33,
+      "raw_reference": "33. Gaube, S., and collaborators. “Do as AI Say: Susceptibility in Deployment of Clinical Decision-Aids.” npj Digital Medicine.",
+      "published_markdown": "Gaube, S., and collaborators. [“Do as AI Say: Susceptibility in Deployment of Clinical Decision-Aids.”](https://doi.org/10.1038/s41746-021-00385-9) npj Digital Medicine.",
+      "published_urls": [
+        "https://doi.org/10.1038/s41746-021-00385-9"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_033"
+      ]
+    },
+    {
+      "id": "ref-034",
+      "number": 34,
+      "raw_reference": "34. van der Aalst, W. M. P. “The Application of Petri Nets to Workflow Management.” Journal of Circuits, Systems and Computers.",
+      "published_markdown": "van der Aalst, W. M. P. [“The Application of Petri Nets to Workflow Management.”](https://doi.org/10.1142/S0218126698000043) Journal of Circuits, Systems and Computers.",
+      "published_urls": [
+        "https://doi.org/10.1142/S0218126698000043"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_034"
+      ]
+    },
+    {
+      "id": "ref-035",
+      "number": 35,
+      "raw_reference": "35. Park, J., and Sandhu, R. “The UCONABC Usage Control Model.” ACM Transactions on Information and System Security.",
+      "published_markdown": "Park, J., and Sandhu, R. [“The UCONABC Usage Control Model.”](https://doi.org/10.1145/984334.984339) ACM Transactions on Information and System Security.",
+      "published_urls": [
+        "https://doi.org/10.1145/984334.984339"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_035"
+      ]
+    },
+    {
+      "id": "ref-036",
+      "number": 36,
+      "raw_reference": "36. IETF. RFC 8705: “OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens.”",
+      "published_markdown": "IETF. [RFC 8705: “OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens.”](https://www.rfc-editor.org/rfc/rfc8705.html)",
+      "published_urls": [
+        "https://www.rfc-editor.org/rfc/rfc8705.html"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_036"
+      ]
+    },
+    {
+      "id": "ref-037",
+      "number": 37,
+      "raw_reference": "37. IETF. RFC 9449: “OAuth 2.0 Demonstrating Proof of Possession.”",
+      "published_markdown": "IETF. [RFC 9449: “OAuth 2.0 Demonstrating Proof of Possession.”](https://www.rfc-editor.org/rfc/rfc9449.html)",
+      "published_urls": [
+        "https://www.rfc-editor.org/rfc/rfc9449.html"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_037"
+      ]
+    },
+    {
+      "id": "ref-038",
+      "number": 38,
+      "raw_reference": "38. Google. “Binary Authorization for Borg.”",
+      "published_markdown": "Google. [“Binary Authorization for Borg.”](https://docs.cloud.google.com/docs/security/binary-authorization-for-borg)",
+      "published_urls": [
+        "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_038"
+      ]
+    },
+    {
+      "id": "ref-039",
+      "number": 39,
+      "raw_reference": "39. Google. “How Google Protects Its Production Services.”",
+      "published_markdown": "Google. [“How Google Protects Its Production Services.”](https://docs.cloud.google.com/docs/security/production-services-protection)",
+      "published_urls": [
+        "https://docs.cloud.google.com/docs/security/production-services-protection"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_039"
+      ]
+    },
+    {
+      "id": "ref-040",
+      "number": 40,
+      "raw_reference": "40. U.S. Securities and Exchange Commission. “In the Matter of Knight Capital Americas LLC,” Exchange Act Release No. 70694.",
+      "published_markdown": "U.S. Securities and Exchange Commission. [“In the Matter of Knight Capital Americas LLC,”](https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf) Exchange Act Release No. 70694.",
+      "published_urls": [
+        "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_040"
+      ]
+    },
+    {
+      "id": "ref-041",
+      "number": 41,
+      "raw_reference": "41. CrowdStrike. “External Technical Root Cause Analysis—Channel File 291.”",
+      "published_markdown": "CrowdStrike. [“External Technical Root Cause Analysis—Channel File 291.”](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)",
+      "published_urls": [
+        "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_041"
+      ]
+    },
+    {
+      "id": "ref-042",
+      "number": 42,
+      "raw_reference": "42. Cybersecurity and Infrastructure Security Agency. Emergency Directive 21-01: “Mitigate SolarWinds Orion Code Compromise.”",
+      "published_markdown": "Cybersecurity and Infrastructure Security Agency. [Emergency Directive 21-01: “Mitigate SolarWinds Orion Code Compromise.”](https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed)",
+      "published_urls": [
+        "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_042"
+      ]
+    },
+    {
+      "id": "ref-043",
+      "number": 43,
+      "raw_reference": "43. NIST. Privacy Framework.",
+      "published_markdown": "NIST. [Privacy Framework.](https://www.nist.gov/privacy-framework)",
+      "published_urls": [
+        "https://www.nist.gov/privacy-framework"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_043"
+      ]
+    },
+    {
+      "id": "ref-044",
+      "number": 44,
+      "raw_reference": "44. Argote, L., and Miron-Spektor, E. “Organizational Learning: From Experience to Knowledge.” Organization Science.",
+      "published_markdown": "Argote, L., and Miron-Spektor, E. [“Organizational Learning: From Experience to Knowledge.”](https://doi.org/10.1287/orsc.1100.0621) Organization Science.",
+      "published_urls": [
+        "https://doi.org/10.1287/orsc.1100.0621"
+      ],
+      "classification": "single-work",
+      "work_ids": [
+        "f117_work_044"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "f117_work_001",
+      "citekey": "f117_ref_001",
+      "type": "article-journal",
+      "title": "The Protection of Information in Computer Systems",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Saltzer",
+          "given": "J.H."
+        },
+        {
+          "family": "Schroeder",
+          "given": "M.D."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1975
+        ]
+      },
+      "accessed": null,
+      "container_title": "Proceedings of the IEEE",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "institution": null,
+      "volume": "63",
+      "issue": "9",
+      "pages": "1278-1308",
+      "doi": "10.1109/proc.1975.9939",
+      "url": "https://web.mit.edu/Saltzer/www/publications/protection/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-001"
+      ],
+      "published_context": "1. Saltzer, J. H., and Schroeder, M. D. “The Protection of Information in Computer Systems.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1109/PROC.1975.9939",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_002",
+      "citekey": "f117_ref_002",
+      "type": "paper-conference",
+      "title": "A Comparison of Commercial and Military Computer Security Policies",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Clark",
+          "given": "David D."
+        },
+        {
+          "family": "Wilson",
+          "given": "David R."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1987,
+          4
+        ]
+      },
+      "accessed": null,
+      "container_title": "1987 IEEE Symposium on Security and Privacy",
+      "publisher": "IEEE",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": "184-184",
+      "doi": "10.1109/sp.1987.10001",
+      "url": "https://doi.org/10.1109/sp.1987.10001",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-002"
+      ],
+      "published_context": "2. Clark, D. D., and Wilson, D. R. “A Comparison of Commercial and Military Computer Security Policies.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2FSP.1987.10001",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_003",
+      "citekey": "f117_ref_003",
+      "type": "standard",
+      "title": "eXtensible Access Control Markup Language (XACML) Version 3.0",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "OASIS"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2013,
+          1,
+          22
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "OASIS",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-003"
+      ],
+      "published_context": "3. OASIS. “eXtensible Access Control Markup Language (XACML) Version 3.0.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "XACML Version 3.0; OASIS Standard."
+    },
+    {
+      "id": "f117_work_004",
+      "citekey": "f117_ref_004",
+      "type": "paper-conference",
+      "title": "Zanzibar: Google’s Consistent, Global Authorization System",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pang",
+          "given": "Ruoming"
+        },
+        {
+          "family": "Caceres",
+          "given": "Ramon"
+        },
+        {
+          "family": "Burrows",
+          "given": "Mike"
+        },
+        {
+          "family": "Chen",
+          "given": "Zhifeng"
+        },
+        {
+          "family": "Dave",
+          "given": "Pratik"
+        },
+        {
+          "family": "Germer",
+          "given": "Nathan"
+        },
+        {
+          "family": "Golynski",
+          "given": "Alexander"
+        },
+        {
+          "family": "Graney",
+          "given": "Kevin"
+        },
+        {
+          "family": "Kang",
+          "given": "Nina"
+        },
+        {
+          "family": "Kissner",
+          "given": "Lea"
+        },
+        {
+          "family": "Korn",
+          "given": "Jeffrey L."
+        },
+        {
+          "family": "Parmar",
+          "given": "Abhishek"
+        },
+        {
+          "family": "Richards",
+          "given": "Christina D."
+        },
+        {
+          "family": "Wang",
+          "given": "Mengzhi"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2019
+        ]
+      },
+      "accessed": null,
+      "container_title": "2019 USENIX Annual Technical Conference",
+      "publisher": "USENIX Association",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-004"
+      ],
+      "published_context": "4. Pang, R., and collaborators. “Zanzibar: Google’s Consistent, Global Authorization System.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_005",
+      "citekey": "f117_ref_005",
+      "type": "webpage",
+      "title": "Open Policy Agent documentation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Open Policy Agent"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.openpolicyagent.org/docs/latest/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-005"
+      ],
+      "published_context": "5. Open Policy Agent. Documentation.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.openpolicyagent.org/docs",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.openpolicyagent.org/docs",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.openpolicyagent.org/docs",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.openpolicyagent.org/docs",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_006",
+      "citekey": "f117_ref_006",
+      "type": "paper-conference",
+      "title": "Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Birgisson",
+          "given": "Arnar"
+        },
+        {
+          "family": "Politz",
+          "given": "Joe Gibbs"
+        },
+        {
+          "family": "Erlingsson",
+          "given": "Úlfar"
+        },
+        {
+          "family": "Taly",
+          "given": "Ankur"
+        },
+        {
+          "family": "Vrable",
+          "given": "Michael"
+        },
+        {
+          "family": "Lentczner",
+          "given": "Mark"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2014
+        ]
+      },
+      "accessed": null,
+      "container_title": "Network and Distributed System Security Symposium 2014",
+      "publisher": "Internet Society",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-006"
+      ],
+      "published_context": "6. Birgisson, A., and collaborators. “Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://research.google/pubs/macaroons-cookies-with-contextual-caveats-for-decentralized-authorization-in-the-cloud/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_007",
+      "citekey": "f117_ref_007",
+      "type": "standard",
+      "title": "PROV-O: The PROV Ontology",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "W3C"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2013,
+          4,
+          30
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "W3C",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.w3.org/TR/prov-o/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-007"
+      ],
+      "published_context": "7. W3C. “PROV-O: The PROV Ontology.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.w3.org/TR/prov-o/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.w3.org/TR/prov-o/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.w3.org/TR/prov-o/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.w3.org/TR/prov-o/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.w3.org/TR/prov-o/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.w3.org/TR/prov-o/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "W3C Recommendation; editors Timothy Lebo, Satya Sahoo, Deborah McGuinness are named in the authority."
+    },
+    {
+      "id": "f117_work_008",
+      "citekey": "f117_ref_008",
+      "type": "standard",
+      "title": "Remote ATtestation procedureS (RATS) Architecture",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Birkholz",
+          "given": "H."
+        },
+        {
+          "family": "Thaler",
+          "given": "D."
+        },
+        {
+          "family": "Richardson",
+          "given": "M."
+        },
+        {
+          "family": "Smith",
+          "given": "N."
+        },
+        {
+          "family": "Pan",
+          "given": "W."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2023,
+          1,
+          13
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "RFC Editor",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.17487/rfc9334",
+      "url": "https://www.rfc-editor.org/rfc/rfc9334",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-008"
+      ],
+      "published_context": "8. IETF. RFC 9334: “Remote ATtestation procedureS (RATS) Architecture.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.rfc-editor.org/info/rfc9334/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_009",
+      "citekey": "f117_ref_009",
+      "type": "paper-conference",
+      "title": "in-toto: Providing farm-to-table guarantees for bits and bytes",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Torres-Arias",
+          "given": "Santiago"
+        },
+        {
+          "family": "Afzali",
+          "given": "Hammad"
+        },
+        {
+          "family": "Kuppusamy",
+          "given": "Trishank Karthik"
+        },
+        {
+          "family": "Curtmola",
+          "given": "Reza"
+        },
+        {
+          "family": "Cappos",
+          "given": "Justin"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2019
+        ]
+      },
+      "accessed": null,
+      "container_title": "28th USENIX Security Symposium (USENIX Security 19)",
+      "publisher": "USENIX Association",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": "1393-1410",
+      "doi": null,
+      "url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-009"
+      ],
+      "published_context": "9. Torres-Arias, S., and collaborators. “in-toto: Providing Farm-to-Table Guarantees for Bits and Bytes.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.usenix.org/conference/usenixsecurity19/presentation/torres-arias",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_010",
+      "citekey": "f117_ref_010",
+      "type": "webpage",
+      "title": "in-toto project documentation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "in-toto"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://in-toto.io/docs/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-010"
+      ],
+      "published_context": "10. in-toto. Project documentation.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://in-toto.io/docs/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://in-toto.io/docs/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://in-toto.io/docs/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://in-toto.io/docs/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_011",
+      "citekey": "f117_ref_011",
+      "type": "standard",
+      "title": "SLSA specification, version 1.2",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "SLSA"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": "SLSA",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://slsa.dev/spec/v1.2/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-011"
+      ],
+      "published_context": "11. SLSA. Specification 1.2.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://slsa.dev/spec/v1.2/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://slsa.dev/spec/v1.2/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://slsa.dev/spec/v1.2/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://slsa.dev/spec/v1.2/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://slsa.dev/spec/v1.2/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Approved specification version 1.2; no publication date installed from the undated landing page.",
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_012",
+      "citekey": "f117_ref_012",
+      "type": "webpage",
+      "title": "Sigstore documentation",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Sigstore"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://docs.sigstore.dev/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-012"
+      ],
+      "published_context": "12. Sigstore. Documentation.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://docs.sigstore.dev/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://docs.sigstore.dev/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://docs.sigstore.dev/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://docs.sigstore.dev/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_013",
+      "citekey": "f117_ref_013",
+      "type": "report",
+      "title": "Secure Software Development Framework (SSDF) Version 1.1: Recommendations for Mitigating the Risk of Software Vulnerabilities",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Souppaya",
+          "given": "Murugiah"
+        },
+        {
+          "family": "Scarfone",
+          "given": "Karen"
+        },
+        {
+          "family": "Dodson",
+          "given": "Donna"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2022,
+          2,
+          3
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": "National Institute of Standards and Technology",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.6028/nist.sp.800-218",
+      "url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-013"
+      ],
+      "published_context": "13. NIST. SP 800-218: Secure Software Development Framework.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "institution": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://csrc.nist.gov/pubs/sp/800/218/final",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_014",
+      "citekey": "f117_ref_014",
+      "type": "webpage",
+      "title": "About protected branches",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "GitHub"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-014"
+      ],
+      "published_context": "14. GitHub. “About protected branches.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_015",
+      "citekey": "f117_ref_015",
+      "type": "article-journal",
+      "title": "Enforceable security policies",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Schneider",
+          "given": "Fred B."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2000,
+          2
+        ]
+      },
+      "accessed": null,
+      "container_title": "ACM Transactions on Information and System Security",
+      "publisher": "Association for Computing Machinery (ACM)",
+      "institution": null,
+      "volume": "3",
+      "issue": "1",
+      "pages": "30-50",
+      "doi": "10.1145/353323.353382",
+      "url": "https://doi.org/10.1145/353323.353382",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-015"
+      ],
+      "published_context": "15. Schneider, F. B. “Enforceable Security Policies.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F353323.353382",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_016",
+      "citekey": "f117_ref_016",
+      "type": "article-journal",
+      "title": "Ironies of automation",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Bainbridge",
+          "given": "Lisanne"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1983,
+          11
+        ]
+      },
+      "accessed": null,
+      "container_title": "Automatica",
+      "publisher": "Elsevier BV",
+      "institution": null,
+      "volume": "19",
+      "issue": "6",
+      "pages": "775-779",
+      "doi": "10.1016/0005-1098(83)90046-8",
+      "url": "https://doi.org/10.1016/0005-1098(83)90046-8",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-016"
+      ],
+      "published_context": "16. Bainbridge, L. “Ironies of Automation.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1016%2F0005-1098%2883%2990046-8",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_017",
+      "citekey": "f117_ref_017",
+      "type": "article-journal",
+      "title": "A model for types and levels of human interaction with automation",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Parasuraman",
+          "given": "R."
+        },
+        {
+          "family": "Sheridan",
+          "given": "T.B."
+        },
+        {
+          "family": "Wickens",
+          "given": "C.D."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2000,
+          5
+        ]
+      },
+      "accessed": null,
+      "container_title": "IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "institution": null,
+      "volume": "30",
+      "issue": "3",
+      "pages": "286-297",
+      "doi": "10.1109/3468.844354",
+      "url": "https://doi.org/10.1109/3468.844354",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-017"
+      ],
+      "published_context": "17. Parasuraman, R., Sheridan, T. B., and Wickens, C. D. “A Model for Types and Levels of Human Interaction with Automation.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1109%2F3468.844354",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_018",
+      "citekey": "f117_ref_018",
+      "type": "article-journal",
+      "title": "Trust in Automation: Designing for Appropriate Reliance",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Lee",
+          "given": "J. D."
+        },
+        {
+          "family": "See",
+          "given": "K. A."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2004,
+          1,
+          1
+        ]
+      },
+      "accessed": null,
+      "container_title": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+      "publisher": "Oxford University Press (OUP)",
+      "institution": null,
+      "volume": "46",
+      "issue": "1",
+      "pages": "50-80",
+      "doi": "10.1518/hfes.46.1.50_30392",
+      "url": "https://doi.org/10.1518/hfes.46.1.50_30392",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-018"
+      ],
+      "published_context": "18. Lee, J. D., and See, K. A. “Trust in Automation: Designing for Appropriate Reliance.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2Fhfes.46.1.50_30392",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_019",
+      "citekey": "f117_ref_019",
+      "type": "article-journal",
+      "title": "Meaningful Human Control over Autonomous Systems: A Philosophical Account",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Santoni de Sio",
+          "given": "Filippo"
+        },
+        {
+          "family": "van den Hoven",
+          "given": "Jeroen"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2018,
+          2,
+          28
+        ]
+      },
+      "accessed": null,
+      "container_title": "Frontiers in Robotics and AI",
+      "publisher": "Frontiers Media SA",
+      "institution": null,
+      "volume": "5",
+      "issue": null,
+      "pages": null,
+      "doi": "10.3389/frobt.2018.00015",
+      "url": "https://doi.org/10.3389/frobt.2018.00015",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-019"
+      ],
+      "published_context": "19. Santoni de Sio, F., and van den Hoven, J. “Meaningful Human Control over Autonomous Systems.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.3389%2Ffrobt.2018.00015",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [
+        "f117-exception-01"
+      ],
+      "note": "Metadata adjudication: Published DOI returns no Crossref record; title and both authors match the Frontiers article at 10.3389/frobt.2018.00015. The full normalized title includes its subtitle."
+    },
+    {
+      "id": "f117_work_020",
+      "citekey": "f117_ref_020",
+      "type": "article-journal",
+      "title": "Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Elish",
+          "given": "Madeleine Clare"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2019,
+          3,
+          23
+        ]
+      },
+      "accessed": null,
+      "container_title": "Engaging Science, Technology, and Society",
+      "publisher": null,
+      "institution": null,
+      "volume": "5",
+      "issue": null,
+      "pages": "40-60",
+      "doi": "10.17351/ests2019.260",
+      "url": "https://estsjournal.org/index.php/ests/article/view/260",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-020"
+      ],
+      "published_context": "20. Elish, M. C. “Moral Crumple Zones: Cautionary Tales in Human–Robot Interaction.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://estsjournal.org/index.php/ests/article/view/260",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_021",
+      "citekey": "f117_ref_021",
+      "type": "webpage",
+      "title": "AI Risk Management Framework",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "NIST"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-021"
+      ],
+      "published_context": "21. NIST. AI Risk Management Framework.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "General NIST framework portal; the short published reference does not identify a specific report edition, so no report date/version is inferred.",
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_022",
+      "citekey": "f117_ref_022",
+      "type": "thesis",
+      "title": "Arguing Safety: A Systematic Approach to Managing Safety Cases",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Kelly",
+          "given": "T. P."
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": null,
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-022"
+      ],
+      "published_context": "22. Kelly, T. P. “Arguing Safety: A Systematic Approach to Managing Safety Cases.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "Published reference; live wrong-locator verification; official institutional bibliography corroboration only",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "Published reference; live wrong-locator verification; official institutional bibliography corroboration only",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "Published reference; live wrong-locator verification; official institutional bibliography corroboration only",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [
+        "f117-exception-02"
+      ],
+      "note": "Dissertation identified in the published reference and institutional literature. Published White Rose locator points to an unrelated peacebuilding thesis; a historical York PDF locator now redirects to a generic homepage. Publication year and a currently serving thesis locator remain unresolved. Metadata adjudication: Live White Rose page is an unrelated peacebuilding thesis. Historical York PDF route no longer serves the dissertation. A false replacement locator/date is not installed.",
+      "metadata_gaps": [
+        "Publication date not established; no date invented.",
+        "Current work locator unresolved; incorrect published locator retained only as original evidence."
+      ]
+    },
+    {
+      "id": "f117_work_023",
+      "citekey": "f117_ref_023",
+      "type": "webpage",
+      "title": "AI Agent Security Cheat Sheet",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "OWASP"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-023"
+      ],
+      "published_context": "23. OWASP. AI Agent Security Cheat Sheet.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_024",
+      "citekey": "f117_ref_024",
+      "type": "report",
+      "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "NIST"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2024,
+          7
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "National Institute of Standards and Technology",
+      "institution": "National Institute of Standards and Technology",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.6028/nist.ai.600-1",
+      "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-024"
+      ],
+      "published_context": "24. NIST. AI 600-1: Artificial Intelligence Risk Management Framework—Generative AI Profile.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "institution": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "NIST AI 600-1; publication identity/date from the official PDF cover."
+    },
+    {
+      "id": "f117_work_025",
+      "citekey": "f117_ref_025",
+      "type": "report",
+      "title": "Practices for Governing Agentic AI Systems",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Shavit",
+          "given": "Yonadav"
+        },
+        {
+          "family": "Agarwal",
+          "given": "Sandhini"
+        },
+        {
+          "family": "Brundage",
+          "given": "Miles"
+        },
+        {
+          "family": "Adler",
+          "given": "Steven"
+        },
+        {
+          "family": "O’Keefe",
+          "given": "Cullen"
+        },
+        {
+          "family": "Campbell",
+          "given": "Rosie"
+        },
+        {
+          "family": "Lee",
+          "given": "Teddy"
+        },
+        {
+          "family": "Mishkin",
+          "given": "Pamela"
+        },
+        {
+          "family": "Eloundou",
+          "given": "Tyna"
+        },
+        {
+          "family": "Hickey",
+          "given": "Alan"
+        },
+        {
+          "family": "Slama",
+          "given": "Katarina"
+        },
+        {
+          "family": "Ahmad",
+          "given": "Lama"
+        },
+        {
+          "family": "McMillan",
+          "given": "Paul"
+        },
+        {
+          "family": "Beutel",
+          "given": "Alex"
+        },
+        {
+          "family": "Passos",
+          "given": "Alexandre"
+        },
+        {
+          "family": "Robinson",
+          "given": "David G."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2023,
+          12,
+          14
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "OpenAI",
+      "institution": "OpenAI",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+      "alternate_urls": [
+        "https://openai.com/index/practices-for-governing-agentic-ai-systems/"
+      ],
+      "language": "en",
+      "reference_slots": [
+        "ref-025"
+      ],
+      "published_context": "25. Shavit, Y., and collaborators. “Practices for Governing Agentic AI Systems.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "institution": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [
+        "f117-exception-03"
+      ],
+      "note": "Metadata adjudication: Current official web wrapper lists Andrea Vallone in the place occupied by Alex Beutel in the linked paper PDF. The reusable record follows the paper PDF, with the wrapper used only for its publication date."
+    },
+    {
+      "id": "f117_work_026",
+      "citekey": "f117_ref_026",
+      "type": "manuscript",
+      "title": "MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Wang",
+          "given": "Charles L."
+        },
+        {
+          "family": "Singhal",
+          "given": "Trisha"
+        },
+        {
+          "family": "Kelkar",
+          "given": "Ameya"
+        },
+        {
+          "family": "Tuo",
+          "given": "Jason"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2025,
+          8,
+          5
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "arXiv",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.48550/arxiv.2508.03858",
+      "url": "https://arxiv.org/abs/2508.03858v1",
+      "alternate_urls": [
+        "https://arxiv.org/abs/2508.03858"
+      ],
+      "language": "en",
+      "reference_slots": [
+        "ref-026"
+      ],
+      "published_context": "26. Wang, S., and collaborators. “MI9 — Agent Intelligence Protocol: Runtime Governance for Agentic AI Systems.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://arxiv.org/abs/2508.03858v1",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [
+        "f117-exception-04"
+      ],
+      "note": "Version 1 title is the work cited by the published paper; later arXiv versions use MI9: An Integrated Runtime Governance Framework for Agentic AI. Metadata adjudication: The v1 responsible repository identifies Charles L. Wang, not an author with given initial S. The canonical reference remains untouched. Preprint or manuscript; no completed peer-reviewed venue inferred."
+    },
+    {
+      "id": "f117_work_027",
+      "citekey": "f117_ref_027",
+      "type": "manuscript",
+      "title": "OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Zhu",
+          "given": "Genliang"
+        },
+        {
+          "family": "Wang",
+          "given": "Chu"
+        },
+        {
+          "family": "Wang",
+          "given": "Ziyuan"
+        },
+        {
+          "family": "Li",
+          "given": "Zhida"
+        },
+        {
+          "family": "Li",
+          "given": "Qiang"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          2,
+          22
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "arXiv",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.48550/arxiv.2602.20196",
+      "url": "https://arxiv.org/abs/2602.20196",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-027"
+      ],
+      "published_context": "27. Zhu, Y., and collaborators. “OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://arxiv.org/abs/2602.20196",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [
+        "f117-exception-05"
+      ],
+      "note": "Metadata adjudication: Responsible arXiv record identifies Genliang Zhu. The published initial Y. is preserved in the source slot, not used to overwrite verified author metadata. Preprint or manuscript; no completed peer-reviewed venue inferred."
+    },
+    {
+      "id": "f117_work_028",
+      "citekey": "f117_ref_028",
+      "type": "report",
+      "title": "Model AI Governance Framework for Agentic AI",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "IMDA"
+        },
+        {
+          "literal": "AI Verify Foundation"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          5,
+          20
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "Infocomm Media Development Authority",
+      "institution": "Infocomm Media Development Authority",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-028"
+      ],
+      "published_context": "28. IMDA and AI Verify Foundation. “Model AI Governance Framework for Agentic AI.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "institution": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Version 1.5; official PDF says published 20 May 2026 and updated 5 June 2026."
+    },
+    {
+      "id": "f117_work_029",
+      "citekey": "f117_ref_029",
+      "type": "manuscript",
+      "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Peng",
+          "given": "Sida"
+        },
+        {
+          "family": "Kalliamvakou",
+          "given": "Eirini"
+        },
+        {
+          "family": "Cihon",
+          "given": "Peter"
+        },
+        {
+          "family": "Demirer",
+          "given": "Mert"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2023,
+          2,
+          13
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "arXiv",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.48550/arxiv.2302.06590",
+      "url": "https://arxiv.org/abs/2302.06590",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-029"
+      ],
+      "published_context": "29. Peng, S., and collaborators. “The Impact of AI on Developer Productivity: Evidence from GitHub Copilot.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://arxiv.org/abs/2302.06590",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Preprint or manuscript; no completed peer-reviewed venue inferred."
+    },
+    {
+      "id": "f117_work_030",
+      "citekey": "f117_ref_030",
+      "type": "webpage",
+      "title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "METR"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2025,
+          7,
+          10
+        ]
+      },
+      "accessed": null,
+      "container_title": "METR Blog",
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-030"
+      ],
+      "published_context": "30. METR. “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_031",
+      "citekey": "f117_ref_031",
+      "type": "article-journal",
+      "title": "The Out-of-the-Loop Performance Problem and Level of Control in Automation",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Endsley",
+          "given": "Mica R."
+        },
+        {
+          "family": "Kiris",
+          "given": "Esin O."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1995,
+          6
+        ]
+      },
+      "accessed": null,
+      "container_title": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+      "publisher": "SAGE Publications",
+      "institution": null,
+      "volume": "37",
+      "issue": "2",
+      "pages": "381-394",
+      "doi": "10.1518/001872095779064555",
+      "url": "https://doi.org/10.1518/001872095779064555",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-031"
+      ],
+      "published_context": "31. Endsley, M. R., and Kiris, E. O. “The Out-of-the-Loop Performance Problem and Level of Control in Automation.” Human Factors.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1518%2F001872095779064555",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_032",
+      "citekey": "f117_ref_032",
+      "type": "article-journal",
+      "title": "To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Buçinca",
+          "given": "Zana"
+        },
+        {
+          "family": "Malaya",
+          "given": "Maja Barbara"
+        },
+        {
+          "family": "Gajos",
+          "given": "Krzysztof Z."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2021,
+          4,
+          13
+        ]
+      },
+      "accessed": null,
+      "container_title": "Proceedings of the ACM on Human-Computer Interaction",
+      "publisher": "Association for Computing Machinery (ACM)",
+      "institution": null,
+      "volume": "5",
+      "issue": "CSCW1",
+      "pages": "1-21",
+      "doi": "10.1145/3449287",
+      "url": "https://doi.org/10.1145/3449287",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-032"
+      ],
+      "published_context": "32. Buçinca, Z., Malaya, M. B., and Gajos, K. Z. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F3449287",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [
+        "f117-exception-06"
+      ],
+      "note": "Metadata adjudication: Responsible DOI registry identifies Proceedings of the ACM on Human-Computer Interaction, volume 5, CSCW1. The normalized record follows the journal metadata; source slot retains its published venue wording."
+    },
+    {
+      "id": "f117_work_033",
+      "citekey": "f117_ref_033",
+      "type": "article-journal",
+      "title": "Do as AI say: susceptibility in deployment of clinical decision-aids",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Gaube",
+          "given": "Susanne"
+        },
+        {
+          "family": "Suresh",
+          "given": "Harini"
+        },
+        {
+          "family": "Raue",
+          "given": "Martina"
+        },
+        {
+          "family": "Merritt",
+          "given": "Alexander"
+        },
+        {
+          "family": "Berkowitz",
+          "given": "Seth J."
+        },
+        {
+          "family": "Lermer",
+          "given": "Eva"
+        },
+        {
+          "family": "Coughlin",
+          "given": "Joseph F."
+        },
+        {
+          "family": "Guttag",
+          "given": "John V."
+        },
+        {
+          "family": "Colak",
+          "given": "Errol"
+        },
+        {
+          "family": "Ghassemi",
+          "given": "Marzyeh"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2021,
+          2,
+          19
+        ]
+      },
+      "accessed": null,
+      "container_title": "npj Digital Medicine",
+      "publisher": "Springer Science and Business Media LLC",
+      "institution": null,
+      "volume": "4",
+      "issue": "1",
+      "pages": null,
+      "doi": "10.1038/s41746-021-00385-9",
+      "url": "https://doi.org/10.1038/s41746-021-00385-9",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-033"
+      ],
+      "published_context": "33. Gaube, S., and collaborators. “Do as AI Say: Susceptibility in Deployment of Clinical Decision-Aids.” npj Digital Medicine.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1038%2Fs41746-021-00385-9",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_034",
+      "citekey": "f117_ref_034",
+      "type": "article-journal",
+      "title": "THE APPLICATION OF PETRI NETS TO WORKFLOW MANAGEMENT",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "VAN DER AALST",
+          "given": "W. M. P."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          1998,
+          2
+        ]
+      },
+      "accessed": null,
+      "container_title": "Journal of Circuits, Systems and Computers",
+      "publisher": "World Scientific Pub Co Pte Ltd",
+      "institution": null,
+      "volume": "08",
+      "issue": "01",
+      "pages": "21-66",
+      "doi": "10.1142/s0218126698000043",
+      "url": "https://doi.org/10.1142/s0218126698000043",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-034"
+      ],
+      "published_context": "34. van der Aalst, W. M. P. “The Application of Petri Nets to Workflow Management.” Journal of Circuits, Systems and Computers.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1142%2FS0218126698000043",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_035",
+      "citekey": "f117_ref_035",
+      "type": "article-journal",
+      "title": "The UCONABC Usage Control Model",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Park",
+          "given": "Jaehong"
+        },
+        {
+          "family": "Sandhu",
+          "given": "Ravi"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2004,
+          2
+        ]
+      },
+      "accessed": null,
+      "container_title": "ACM Transactions on Information and System Security",
+      "publisher": "Association for Computing Machinery (ACM)",
+      "institution": null,
+      "volume": "7",
+      "issue": "1",
+      "pages": "128-174",
+      "doi": "10.1145/984334.984339",
+      "url": "https://doi.org/10.1145/984334.984339",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-035"
+      ],
+      "published_context": "35. Park, J., and Sandhu, R. “The UCONABC Usage Control Model.” ACM Transactions on Information and System Security.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1145%2F984334.984339",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_036",
+      "citekey": "f117_ref_036",
+      "type": "standard",
+      "title": "OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Campbell",
+          "given": "B."
+        },
+        {
+          "family": "Bradley",
+          "given": "J."
+        },
+        {
+          "family": "Sakimura",
+          "given": "N."
+        },
+        {
+          "family": "Lodderstedt",
+          "given": "T."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2020,
+          2
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "RFC Editor",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-036"
+      ],
+      "published_context": "36. IETF. RFC 8705: “OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc8705.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_037",
+      "citekey": "f117_ref_037",
+      "type": "standard",
+      "title": "OAuth 2.0 Demonstrating Proof of Possession (DPoP)",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Fett",
+          "given": "D."
+        },
+        {
+          "family": "Campbell",
+          "given": "B."
+        },
+        {
+          "family": "Bradley",
+          "given": "J."
+        },
+        {
+          "family": "Lodderstedt",
+          "given": "T."
+        },
+        {
+          "family": "Jones",
+          "given": "M."
+        },
+        {
+          "family": "Waite",
+          "given": "D."
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2023,
+          9
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "RFC Editor",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-037"
+      ],
+      "published_context": "37. IETF. RFC 9449: “OAuth 2.0 Demonstrating Proof of Possession.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.rfc-editor.org/rfc/rfc9449.html",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_038",
+      "citekey": "f117_ref_038",
+      "type": "webpage",
+      "title": "Binary Authorization for Borg",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Google"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-038"
+      ],
+      "published_context": "38. Google. “Binary Authorization for Borg.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/binary-authorization-for-borg",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Official page verified through live public retrieval after direct client received Site Unavailable. Content update month September 2026 is not treated as the initial publication date.",
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_039",
+      "citekey": "f117_ref_039",
+      "type": "webpage",
+      "title": "How Google Protects Its Production Services",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Google"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://docs.cloud.google.com/docs/security/production-services-protection",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-039"
+      ],
+      "published_context": "39. Google. “How Google Protects Its Production Services.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/production-services-protection",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/production-services-protection",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/production-services-protection",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://docs.cloud.google.com/docs/security/production-services-protection",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Official page verified through live public retrieval. Content update month June 2026 and crawler publish-date metadata are not treated as the initial publication date.",
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_040",
+      "citekey": "f117_ref_040",
+      "type": "report",
+      "title": "In the Matter of Knight Capital Americas LLC",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "U.S. Securities and Exchange Commission"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2013,
+          10,
+          16
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "U.S. Securities and Exchange Commission",
+      "institution": "U.S. Securities and Exchange Commission",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-040"
+      ],
+      "published_context": "40. U.S. Securities and Exchange Commission. “In the Matter of Knight Capital Americas LLC,” Exchange Act Release No. 70694.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "institution": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Exchange Act Release No. 70694; administrative proceeding File No. 3-15570."
+    },
+    {
+      "id": "f117_work_041",
+      "citekey": "f117_ref_041",
+      "type": "report",
+      "title": "External Technical Root Cause Analysis—Channel File 291",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "CrowdStrike"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2024,
+          8,
+          6
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "CrowdStrike",
+      "institution": "CrowdStrike",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-041"
+      ],
+      "published_context": "41. CrowdStrike. “External Technical Root Cause Analysis—Channel File 291.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "institution": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    },
+    {
+      "id": "f117_work_042",
+      "citekey": "f117_ref_042",
+      "type": "standard",
+      "title": "Emergency Directive 21-01: Mitigate SolarWinds Orion Code Compromise",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "Cybersecurity and Infrastructure Security Agency"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2020,
+          12,
+          13
+        ]
+      },
+      "accessed": null,
+      "container_title": null,
+      "publisher": "Cybersecurity and Infrastructure Security Agency",
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-042"
+      ],
+      "published_context": "42. Cybersecurity and Infrastructure Security Agency. Emergency Directive 21-01: “Mitigate SolarWinds Orion Code Compromise.”",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.cisa.gov/news-events/directives/ed-21-01-mitigate-solarwinds-orion-code-compromise-closed",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "Directive issue date verified from the official CISA supplemental direction; current directive page includes later supplements and is marked Closed."
+    },
+    {
+      "id": "f117_work_043",
+      "citekey": "f117_ref_043",
+      "type": "webpage",
+      "title": "Privacy Framework",
+      "title_translated": null,
+      "authors": [
+        {
+          "literal": "NIST"
+        }
+      ],
+      "issued": null,
+      "accessed": null,
+      "container_title": null,
+      "publisher": null,
+      "institution": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": null,
+      "url": "https://www.nist.gov/privacy-framework",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-043"
+      ],
+      "published_context": "43. NIST. Privacy Framework.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://www.nist.gov/privacy-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://www.nist.gov/privacy-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://www.nist.gov/privacy-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://www.nist.gov/privacy-framework",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": [],
+      "note": "General NIST framework portal; no specific report edition/date inferred from the short published citation.",
+      "metadata_gaps": [
+        "Publication date not established; no date invented."
+      ]
+    },
+    {
+      "id": "f117_work_044",
+      "citekey": "f117_ref_044",
+      "type": "article-journal",
+      "title": "Organizational Learning: From Experience to Knowledge",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Argote",
+          "given": "Linda"
+        },
+        {
+          "family": "Miron-Spektor",
+          "given": "Ella"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2011,
+          10
+        ]
+      },
+      "accessed": null,
+      "container_title": "Organization Science",
+      "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+      "institution": null,
+      "volume": "22",
+      "issue": "5",
+      "pages": "1123-1137",
+      "doi": "10.1287/orsc.1100.0621",
+      "url": "https://doi.org/10.1287/orsc.1100.0621",
+      "alternate_urls": [],
+      "language": "en",
+      "reference_slots": [
+        "ref-044"
+      ],
+      "published_context": "44. Argote, L., and Miron-Spektor, E. “Organizational Learning: From Experience to Knowledge.” Organization Science.",
+      "field_provenance": {
+        "title": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "authors": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issued": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "type": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "container_title": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "publisher": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "volume": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "issue": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "pages": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "doi": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        },
+        "url": {
+          "authority_url": "https://api.crossref.org/works/10.1287%2Forsc.1100.0621",
+          "basis": "Responsible registry/repository/publication or exact published reference; explicit adjudications and source-backed additions recorded."
+        }
+      },
+      "exceptions": []
+    }
+  ],
+  "reference_work_links": [
+    {
+      "reference_slot_id": "ref-001",
+      "work_id": "f117_work_001",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-002",
+      "work_id": "f117_work_002",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-003",
+      "work_id": "f117_work_003",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-004",
+      "work_id": "f117_work_004",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-005",
+      "work_id": "f117_work_005",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-006",
+      "work_id": "f117_work_006",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-007",
+      "work_id": "f117_work_007",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-008",
+      "work_id": "f117_work_008",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-009",
+      "work_id": "f117_work_009",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-010",
+      "work_id": "f117_work_010",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-011",
+      "work_id": "f117_work_011",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-012",
+      "work_id": "f117_work_012",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-013",
+      "work_id": "f117_work_013",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-014",
+      "work_id": "f117_work_014",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-015",
+      "work_id": "f117_work_015",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-016",
+      "work_id": "f117_work_016",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-017",
+      "work_id": "f117_work_017",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-018",
+      "work_id": "f117_work_018",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-019",
+      "work_id": "f117_work_019",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-020",
+      "work_id": "f117_work_020",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-021",
+      "work_id": "f117_work_021",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-022",
+      "work_id": "f117_work_022",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-023",
+      "work_id": "f117_work_023",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-024",
+      "work_id": "f117_work_024",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-025",
+      "work_id": "f117_work_025",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-026",
+      "work_id": "f117_work_026",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-027",
+      "work_id": "f117_work_027",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-028",
+      "work_id": "f117_work_028",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-029",
+      "work_id": "f117_work_029",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-030",
+      "work_id": "f117_work_030",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-031",
+      "work_id": "f117_work_031",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-032",
+      "work_id": "f117_work_032",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-033",
+      "work_id": "f117_work_033",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-034",
+      "work_id": "f117_work_034",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-035",
+      "work_id": "f117_work_035",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-036",
+      "work_id": "f117_work_036",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-037",
+      "work_id": "f117_work_037",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-038",
+      "work_id": "f117_work_038",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-039",
+      "work_id": "f117_work_039",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-040",
+      "work_id": "f117_work_040",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-041",
+      "work_id": "f117_work_041",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-042",
+      "work_id": "f117_work_042",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-043",
+      "work_id": "f117_work_043",
+      "role": "primary",
+      "order": 1
+    },
+    {
+      "reference_slot_id": "ref-044",
+      "work_id": "f117_work_044",
+      "role": "primary",
+      "order": 1
+    }
+  ],
+  "adjudications": [
+    {
+      "id": "f117-exception-01",
+      "slot": 19,
+      "kind": "invalid-published-doi",
+      "published": "https://doi.org/10.1007/s10676-018-9459-8",
+      "normalized": "https://doi.org/10.3389/frobt.2018.00015",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Published DOI returns no Crossref record; title and both authors match the Frontiers article at 10.3389/frobt.2018.00015. The full normalized title includes its subtitle.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-02",
+      "slot": 22,
+      "kind": "wrong-published-locator",
+      "published": "https://etheses.whiterose.ac.uk/2504/",
+      "normalized": null,
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Live White Rose page is an unrelated peacebuilding thesis. Historical York PDF route no longer serves the dissertation. A false replacement locator/date is not installed.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-03",
+      "slot": 25,
+      "kind": "authority-author-roster-conflict",
+      "published": "Published reference abbreviates Shavit and collaborators",
+      "normalized": "Official linked paper PDF author roster retained",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Current official web wrapper lists Andrea Vallone in the place occupied by Alex Beutel in the linked paper PDF. The reusable record follows the paper PDF, with the wrapper used only for its publication date.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-04",
+      "slot": 26,
+      "kind": "published-author-initial",
+      "published": "Wang, S., and collaborators",
+      "normalized": "Charles L. Wang, Trisha Singhal, Ameya Kelkar, Jason Tuo",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "The v1 responsible repository identifies Charles L. Wang, not an author with given initial S. The canonical reference remains untouched.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-05",
+      "slot": 27,
+      "kind": "published-author-initial",
+      "published": "Zhu, Y., and collaborators",
+      "normalized": "Genliang Zhu, Chu Wang, Ziyuan Wang, Zhida Li, Qiang Li",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Responsible arXiv record identifies Genliang Zhu. The published initial Y. is preserved in the source slot, not used to overwrite verified author metadata.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-06",
+      "slot": 32,
+      "kind": "published-venue-label",
+      "published": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+      "normalized": "Proceedings of the ACM on Human-Computer Interaction",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Responsible DOI registry identifies Proceedings of the ACM on Human-Computer Interaction, volume 5, CSCW1. The normalized record follows the journal metadata; source slot retains its published venue wording.",
+      "review_status": "Ready for concrete release review"
+    }
+  ],
+  "completeness": {
+    "reference_slots": 44,
+    "distinct_works": 44,
+    "slot_work_links": 44,
+    "composite_slots": 0,
+    "reused_works": 0,
+    "doi_bearing_works": 20,
+    "dated_works": 33,
+    "undated_works": 11,
+    "located_works": 43,
+    "unresolved_locators": 1
+  },
+  "provenance": {
+    "publication_strings": "Exact frozen F117 release wording and order.",
+    "normalization": "Responsible DOI registries, official repositories, standards and institutional publishers; no fabricated fields.",
+    "authority_receipts": "source/authority-receipts.json",
+    "network_enrichment_frozen_on": "2026-10-12"
+  },
+  "exceptions": [
+    {
+      "id": "f117-exception-01",
+      "slot": 19,
+      "kind": "invalid-published-doi",
+      "published": "https://doi.org/10.1007/s10676-018-9459-8",
+      "normalized": "https://doi.org/10.3389/frobt.2018.00015",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Published DOI returns no Crossref record; title and both authors match the Frontiers article at 10.3389/frobt.2018.00015. The full normalized title includes its subtitle.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-02",
+      "slot": 22,
+      "kind": "wrong-published-locator",
+      "published": "https://etheses.whiterose.ac.uk/2504/",
+      "normalized": null,
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Live White Rose page is an unrelated peacebuilding thesis. Historical York PDF route no longer serves the dissertation. A false replacement locator/date is not installed.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-03",
+      "slot": 25,
+      "kind": "authority-author-roster-conflict",
+      "published": "Published reference abbreviates Shavit and collaborators",
+      "normalized": "Official linked paper PDF author roster retained",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Current official web wrapper lists Andrea Vallone in the place occupied by Alex Beutel in the linked paper PDF. The reusable record follows the paper PDF, with the wrapper used only for its publication date.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-04",
+      "slot": 26,
+      "kind": "published-author-initial",
+      "published": "Wang, S., and collaborators",
+      "normalized": "Charles L. Wang, Trisha Singhal, Ameya Kelkar, Jason Tuo",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "The v1 responsible repository identifies Charles L. Wang, not an author with given initial S. The canonical reference remains untouched.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-05",
+      "slot": 27,
+      "kind": "published-author-initial",
+      "published": "Zhu, Y., and collaborators",
+      "normalized": "Genliang Zhu, Chu Wang, Ziyuan Wang, Zhida Li, Qiang Li",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Responsible arXiv record identifies Genliang Zhu. The published initial Y. is preserved in the source slot, not used to overwrite verified author metadata.",
+      "review_status": "Ready for concrete release review"
+    },
+    {
+      "id": "f117-exception-06",
+      "slot": 32,
+      "kind": "published-venue-label",
+      "published": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+      "normalized": "Proceedings of the ACM on Human-Computer Interaction",
+      "disposition": "Published paper and reference string preserved; reusable metadata adjudicated separately.",
+      "reason": "Responsible DOI registry identifies Proceedings of the ACM on Human-Computer Interaction, volume 5, CSCW1. The normalized record follows the journal metadata; source slot retains its published venue wording.",
+      "review_status": "Ready for concrete release review"
+    }
+  ]
+}

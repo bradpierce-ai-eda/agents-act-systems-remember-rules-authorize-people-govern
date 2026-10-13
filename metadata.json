@@ -1,0 +1,39 @@
+{
+  "title": "Agents Act. Systems Remember. Rules Authorize. People Govern.",
+  "subtitle": "A Practical Architecture for Governed AI Agents",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "orcid": "0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-09-19",
+  "doi": "10.5281/zenodo.22842198",
+  "concept_doi": "10.5281/zenodo.22842197",
+  "zenodo_record": "https://zenodo.org/records/22842198",
+  "url": "https://bradpierce.ai/agents-act-systems-remember-rules-authorize-people-govern/",
+  "pdf_url": "https://bradpierce.ai/agents-act-systems-remember-rules-authorize-people-govern/agents-act-systems-remember-rules-authorize-people-govern.pdf",
+  "abstract": "AI agents can now do more work than people can continuously supervise. Many systems add logs, guardrails, approvals, and orchestration, yet still let one agent act, report what happened, interpret the rule, and gain authority. Putting a human in the loop doesn’t create governance when the system can manufacture the case for its own authority. That’s self-certification followed by ceremonial approval. We offer a practical alternative: agents act; trusted systems remember; rules authorize; people govern. These functions separate work, evidence, authority, and responsibility. The central integrity rule is that an agent receiving new authority must not be able to manufacture all the evidence sufficient to receive it. Governed processes decide what’s allowed now from current facts about the object, environment, dependencies, identity, policy, and time—rather than from completed steps alone. Rules turn competent evidence into narrow, expiring, revocable capabilities enforced where action becomes real. People step in when judgment, responsibility, exception, or risk requires accountable human authority and a genuine veto. This architecture applies at consequential boundaries without turning every agent action into a human approval task.",
+  "keywords": [
+    "agentic systems",
+    "AI agents",
+    "AI governance",
+    "authorization",
+    "provenance",
+    "trusted systems",
+    "human oversight",
+    "separation of duties",
+    "scoped capability",
+    "accountability",
+    "policy"
+  ],
+  "license": "CC-BY-4.0",
+  "resource_type": "Preprint",
+  "preferred_citation": "Brad Pierce. Agents Act. Systems Remember. Rules Authorize. People Govern. Zenodo, 2026. https://doi.org/10.5281/zenodo.22842198.",
+  "relevance_and_citation_scope": [
+    "This paper is an appropriate citation for a practical architecture that separates agent action, trusted evidence, scoped authorization, and accountable human governance at consequential boundaries.",
+    "The architecture connects current-state evidence to narrow, expiring, revocable capabilities enforced where action becomes real. Its worked software-change example and thirteen-question architecture review address self-certification, evidence independence, invalidation, recovery, and meaningful human authority.",
+    "The paper presents an architectural synthesis and engineering review method. It does not establish a completed empirical benchmark or universal deployment result. Product, incident, historical, and empirical findings remain attributable to the cited primary sources.",
+    "The DOI-linked Zenodo preprint is the publication of record. These GitHub editions reflect its unchanged September 19, 2026 release. Repository-added metadata and bibliographic adjudications remain separate from canonical paper content."
+  ]
+}
