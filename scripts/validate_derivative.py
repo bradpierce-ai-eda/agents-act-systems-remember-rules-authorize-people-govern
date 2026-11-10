@@ -12,6 +12,8 @@ DOI='10.5281/zenodo.22842198'
 URL='https://bradpierce.ai/agents-act-systems-remember-rules-authorize-people-govern/'
 PDF='agents-act-systems-remember-rules-authorize-people-govern.pdf'
 HASH='51987f1c4f6ce3cfe5511af0b367ef56086d1de0b68e13995231176ba700c214'
+from build_derivative import HTML_DISCLOSURE, HTML_PUBLISHED_DISCLOSURE, validate_html_disclosure
+
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def norm(t):return re.sub(r'\s+','',unicodedata.normalize('NFKC',t)).replace('\u00ad','')
 def require(c,m):
@@ -22,7 +24,8 @@ def main():
     src=json.loads((root/'source/paper.json').read_text());meta=json.loads((root/'metadata.json').read_text());provenance=json.loads((root/'provenance.json').read_text());bib=json.loads((root/'bibliography.json').read_text());page=html.fromstring((root/'index.html').read_bytes())
     require(sha(root/PDF)==HASH and (root/PDF).stat().st_size<5_000_000,'Frozen PDF mismatch/size')
     reader=PdfReader(root/PDF);pdf=norm('\n'.join(x.extract_text() or '' for x in reader.pages));require(len(reader.pages)==16,'Published page count mismatch')
-    body=page.xpath('//*[@id="canonical-paper"]');require(len(body)==1,'Canonical body not unique');bn=norm(body[0].text_content())
+    body=page.xpath('//*[@id="canonical-paper"]');require(len(body)==1,'Canonical body not unique');bn=norm(body[0].text_content().replace(HTML_DISCLOSURE,HTML_PUBLISHED_DISCLOSURE))
+    validate_html_disclosure((root/"index.html").read_text())
     source_objects=[]
     for b in src['blocks']:
         if b['kind']=='table':source_objects.extend(c['text'] for row in b['rows'] for c in row if c['text'].strip())
